@@ -1,9 +1,12 @@
 import nextConnect from 'next-connect'
+import { all } from '../../../middleware'
 import fetcher from '../../../utils/fetcher'
 
 const { BARUPOS_ADMIN_TOKEN } = process.env
 
 const handler = nextConnect()
+
+handler.use(all)
 
 handler.get(async (req, res) => {
   try {

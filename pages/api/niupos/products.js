@@ -1,9 +1,12 @@
 import nextConnect from 'next-connect'
+import { all } from '../../../middleware'
 import fetcher from '../../../utils/fetcher'
 
 const { NIUPOS_USER_TOKEN } = process.env
 
 const handler = nextConnect()
+
+handler.use(all)
 
 handler.get(async (req, res) => {
   const data = await fetcher("https://buraq-api-v1.niulabs.co/api/services/app/Product/GetAll", NIUPOS_USER_TOKEN)
