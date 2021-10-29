@@ -78,7 +78,7 @@ const Supplier = ({ supplier }) => {
                           {
                             Object.keys(enrichedSupplier[key]).map((i) => {
                               return (
-                                <>
+                                <React.Fragment key={`${i}`}>
                                   {Object.keys(enrichedSupplier[key][i]).map((j, k) => {
                                     return (
                                       <React.Fragment key={`${i}-${k}-${j}`}>
@@ -89,7 +89,7 @@ const Supplier = ({ supplier }) => {
                                       </React.Fragment>
                                     )
                                   })}
-                                </>
+                                </React.Fragment>
                               )
                             })}
                         </dl>
