@@ -44,7 +44,7 @@ const Categories = ({ entities, name, description, router }) => {
                 <div className="ms-2 me-auto">
                   {entity.name}
                 </div>
-                <Link href={`#`}>
+                <Link href={`/niupos/categories/${entity.id}`}>
                   <a className="stretched-link"><i className="bi bi-chevron-right" /></a>
                 </Link>
               </li>
@@ -53,11 +53,13 @@ const Categories = ({ entities, name, description, router }) => {
         }
       </ul>
 
-
-        {enrichedCategories && enrichedCategories.length > 0 &&
-          <textarea rows="25" defaultValue={JSON.stringify(enrichedCategories, null, 4)} style={{width: "100%"}} />
-        }
-
+      {enrichedCategories && enrichedCategories.length > 0 &&
+        <>
+          <br />
+          <br />
+          <textarea className="form-control" rows="25" defaultValue={JSON.stringify(enrichedCategories, null, 4)} style={{ width: "100%" }} />
+        </>
+      }
     </>
   )
 }
@@ -80,6 +82,5 @@ const CategoriesPage = () => {
     </PageShell>
   )
 }
-
 
 export default CategoriesPage
