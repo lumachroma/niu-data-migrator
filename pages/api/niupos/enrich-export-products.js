@@ -37,13 +37,13 @@ let enrichedSuccess = 0
 let enrichedFail = 0
 
 async function startConversionOfProducts(products, position) {
-  if (position >= 10) {
-    console.log(`<<< Enriching status >>> [[[ pos: ${position + 1}/${products.length} success: ${enrichedSuccess} fail: ${enrichedFail} ]]]`)
-    console.log("<<< Enriched products >>>", JSON.stringify(ENRICHED_PRODUCT_LIST))
-    console.log("<<< Fail to enrich >>>", JSON.stringify(ENRICHED_PRODUCT_ERROR_LIST))
-    console.log("\n\n")
-    return
-  }
+  // if (position >= 10) {
+  //   console.log(`<<< Enriching status >>> [[[ pos: ${position + 1}/${products.length} success: ${enrichedSuccess} fail: ${enrichedFail} ]]]`)
+  //   console.log("<<< Enriched products >>>", JSON.stringify(ENRICHED_PRODUCT_LIST))
+  //   console.log("<<< Fail to enrich >>>", JSON.stringify(ENRICHED_PRODUCT_ERROR_LIST))
+  //   console.log("\n\n")
+  //   return
+  // }
 
   if (position >= products.length) {
     console.log(`<<< Enriching status >>> [[[ pos: ${position + 1}/${products.length} success: ${enrichedSuccess} fail: ${enrichedFail} ]]]`)
@@ -64,7 +64,7 @@ async function startConversionOfProducts(products, position) {
       const addedProduct = await Product.create(enrichedItem.result)
       if (addedProduct) {
         enrichedSuccess = enrichedSuccess + 1
-        console.log("Done.", enrichedItem.result.name)
+        console.log("Stored.", enrichedItem.result.name)
       } else {
         enrichedFail = enrichedFail + 1
         ENRICHED_PRODUCT_ERROR_LIST.push({
@@ -90,7 +90,7 @@ async function startConversionOfProducts(products, position) {
     console.log("startConversionOfProducts exception 1: ", error)
   }
 
-  if ((position + 1) % 5 === 0) {
+  if ((position + 1) % 30 === 0) {
     console.log(`<<< Enriching status >>> [[[ pos: ${position + 1}/${products.length} success: ${enrichedSuccess} fail: ${enrichedFail} ]]]`)
     console.log("<<< Enriched products >>>", JSON.stringify(ENRICHED_PRODUCT_LIST))
     console.log("<<< Fail to enrich >>>", JSON.stringify(ENRICHED_PRODUCT_ERROR_LIST))

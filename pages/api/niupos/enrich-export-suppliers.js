@@ -37,13 +37,14 @@ let enrichedSuccess = 0
 let enrichedFail = 0
 
 async function startConversionOfSuppliers(suppliers, position) {
-  if (position >= 10) {
-    console.log(`<<< Enriching status >>> [[[ pos: ${position + 1}/${suppliers.length} success: ${enrichedSuccess} fail: ${enrichedFail} ]]]`)
-    console.log("<<< Enriched suppliers >>>", JSON.stringify(ENRICHED_SUPPLIER_LIST))
-    console.log("<<< Fail to enrich >>>", JSON.stringify(ENRICHED_SUPPLIER_ERROR_LIST))
-    console.log("\n\n")
-    return
-  }
+  // if (position >= 10) {
+  //   console.log(`<<< Enriching status >>> [[[ pos: ${position + 1}/${suppliers.length} success: ${enrichedSuccess} fail: ${enrichedFail} ]]]`)
+  //   console.log("<<< Enriched suppliers >>>", JSON.stringify(ENRICHED_SUPPLIER_LIST))
+  //   console.log("<<< Fail to enrich >>>", JSON.stringify(ENRICHED_SUPPLIER_ERROR_LIST))
+  //   console.log("\n\n")
+  //   return
+  // }
+
   if (position >= suppliers.length) {
     console.log(`<<< Enriching status >>> [[[ pos: ${position + 1}/${suppliers.length} success: ${enrichedSuccess} fail: ${enrichedFail} ]]]`)
     console.log("<<< Enriched suppliers >>>", JSON.stringify(ENRICHED_SUPPLIER_LIST))
@@ -63,7 +64,7 @@ async function startConversionOfSuppliers(suppliers, position) {
       const addedSupplier = await Supplier.create(enrichedItem.result)
       if (addedSupplier) {
         enrichedSuccess = enrichedSuccess + 1
-        console.log("Done.", enrichedItem.result.name)
+        console.log("Stored.", enrichedItem.result.name)
       } else {
         enrichedFail = enrichedFail + 1
         ENRICHED_SUPPLIER_ERROR_LIST.push({
