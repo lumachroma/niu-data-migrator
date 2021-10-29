@@ -1,0 +1,2997 @@
+{
+  "brands": [
+    {
+      "tenantId": 2,
+      "brandName": "0757",
+      "manufacturerName": null,
+      "creationTime": "2020-05-07T09:12:44.2358132",
+      "inactive": false,
+      "id": 172
+    },
+    {
+      "tenantId": 2,
+      "brandName": "2020",
+      "manufacturerName": null,
+      "creationTime": "2020-05-07T09:49:43.4729596",
+      "inactive": false,
+      "id": 175
+    },
+    {
+      "tenantId": 2,
+      "brandName": "7 DAYS",
+      "manufacturerName": "7 DAYS",
+      "creationTime": "0001-01-01T00:00:00",
+      "inactive": false,
+      "id": 56
+    },
+    {
+      "tenantId": 2,
+      "brandName": "888",
+      "manufacturerName": null,
+      "creationTime": "2020-04-24T08:42:45.9643002",
+      "inactive": false,
+      "id": 135
+    },
+    {
+      "tenantId": 2,
+      "brandName": "AAA LYCHEE",
+      "manufacturerName": null,
+      "creationTime": "2020-04-28T10:25:06.9023633",
+      "inactive": false,
+      "id": 153
+    },
+    {
+      "tenantId": 2,
+      "brandName": "ABC",
+      "manufacturerName": null,
+      "creationTime": "2020-04-24T07:08:14.8814105",
+      "inactive": false,
+      "id": 128
+    },
+    {
+      "tenantId": 2,
+      "brandName": "ADABI",
+      "manufacturerName": null,
+      "creationTime": "2020-04-24T06:44:04.4077695",
+      "inactive": false,
+      "id": 117
+    },
+    {
+      "tenantId": 2,
+      "brandName": "AJI NO MOTO",
+      "manufacturerName": null,
+      "creationTime": "2020-04-24T07:01:12.7556321",
+      "inactive": false,
+      "id": 124
+    },
+    {
+      "tenantId": 2,
+      "brandName": "ALLADDIN",
+      "manufacturerName": null,
+      "creationTime": "2020-05-26T04:41:07.7794468",
+      "inactive": false,
+      "id": 200
+    },
+    {
+      "tenantId": 2,
+      "brandName": "AL-WADI",
+      "manufacturerName": null,
+      "creationTime": "2020-02-07T06:05:54.472414",
+      "inactive": false,
+      "id": 74
+    },
+    {
+      "tenantId": 2,
+      "brandName": "AXION",
+      "manufacturerName": null,
+      "creationTime": "2020-05-19T07:35:07.6395008",
+      "inactive": false,
+      "id": 182
+    },
+    {
+      "tenantId": 2,
+      "brandName": "AYAM BRAND",
+      "manufacturerName": null,
+      "creationTime": "2020-04-24T06:33:07.6355986",
+      "inactive": false,
+      "id": 115
+    },
+    {
+      "tenantId": 2,
+      "brandName": "AZFI",
+      "manufacturerName": "AZFI",
+      "creationTime": "2021-02-20T06:51:39.8036769",
+      "inactive": false,
+      "id": 216
+    },
+    {
+      "tenantId": 2,
+      "brandName": "BABAS",
+      "manufacturerName": null,
+      "creationTime": "2020-04-24T06:50:19.5897887",
+      "inactive": false,
+      "id": 120
+    },
+    {
+      "tenantId": 2,
+      "brandName": "BANCHO",
+      "manufacturerName": null,
+      "creationTime": "2020-05-04T09:14:38.4717594",
+      "inactive": false,
+      "id": 164
+    },
+    {
+      "tenantId": 2,
+      "brandName": "BIG ROLL",
+      "manufacturerName": null,
+      "creationTime": "2020-01-17T12:50:12.7834659",
+      "inactive": false,
+      "id": 65
+    },
+    {
+      "tenantId": 2,
+      "brandName": "BIHO",
+      "manufacturerName": null,
+      "creationTime": "2020-05-19T07:38:05.3548358",
+      "inactive": false,
+      "id": 184
+    },
+    {
+      "tenantId": 2,
+      "brandName": "BIHUN TAQWA",
+      "manufacturerName": "PRM RICE VERMICELLI (M) SDN. BHD.",
+      "creationTime": "2021-04-21T08:11:30.8453747",
+      "inactive": false,
+      "id": 224
+    },
+    {
+      "tenantId": 2,
+      "brandName": "BIKA",
+      "manufacturerName": "HUA HUAT",
+      "creationTime": "2019-11-14T03:43:38.1589677",
+      "inactive": false,
+      "id": 5
+    },
+    {
+      "tenantId": 2,
+      "brandName": "BIOZIP ",
+      "manufacturerName": null,
+      "creationTime": "2020-04-24T06:56:26.0285661",
+      "inactive": false,
+      "id": 122
+    },
+    {
+      "tenantId": 2,
+      "brandName": "BLEU",
+      "manufacturerName": "VITATON SDN BHD",
+      "creationTime": "2021-07-26T10:55:53.1173768",
+      "inactive": false,
+      "id": 228
+    },
+    {
+      "tenantId": 2,
+      "brandName": "BLUE KEY",
+      "manufacturerName": "FLOUR MILL JOHOR",
+      "creationTime": "2021-03-22T11:17:43.3223603",
+      "inactive": false,
+      "id": 220
+    },
+    {
+      "tenantId": 2,
+      "brandName": "BOH",
+      "manufacturerName": null,
+      "creationTime": "2020-04-24T08:45:56.7108453",
+      "inactive": false,
+      "id": 136
+    },
+    {
+      "tenantId": 2,
+      "brandName": "BUNGA RAYA",
+      "manufacturerName": "BUNGA RAYA SDN BHD",
+      "creationTime": "2021-08-22T08:49:26.8073554",
+      "inactive": false,
+      "id": 237
+    },
+    {
+      "tenantId": 2,
+      "brandName": "BURAQ OIL",
+      "manufacturerName": null,
+      "creationTime": "0001-01-01T00:00:00",
+      "inactive": false,
+      "id": 1
+    },
+    {
+      "tenantId": 2,
+      "brandName": "CACTUS",
+      "manufacturerName": "CHUAN SIN",
+      "creationTime": "2019-11-15T01:24:44.8855542",
+      "inactive": false,
+      "id": 38
+    },
+    {
+      "tenantId": 2,
+      "brandName": "CADBURRY",
+      "manufacturerName": null,
+      "creationTime": "2020-02-10T03:26:35.8882386",
+      "inactive": false,
+      "id": 79
+    },
+    {
+      "tenantId": 2,
+      "brandName": "CALPIS",
+      "manufacturerName": null,
+      "creationTime": "2020-02-10T04:18:49.1561764",
+      "inactive": false,
+      "id": 80
+    },
+    {
+      "tenantId": 2,
+      "brandName": "CAP 0",
+      "manufacturerName": "MAKER RECIPE SDN BHD",
+      "creationTime": "2021-07-14T09:25:19.7715776",
+      "inactive": false,
+      "id": 227
+    },
+    {
+      "tenantId": 2,
+      "brandName": "CAP BURUNG UNTA",
+      "manufacturerName": null,
+      "creationTime": "2020-05-19T07:40:27.4503143",
+      "inactive": false,
+      "id": 189
+    },
+    {
+      "tenantId": 2,
+      "brandName": "CAP KAKI TIGA",
+      "manufacturerName": "SYARIKAT WEN KEN DRUG",
+      "creationTime": "2019-11-15T00:35:58.9891774",
+      "inactive": false,
+      "id": 35
+    },
+    {
+      "tenantId": 2,
+      "brandName": "CAP LANG",
+      "manufacturerName": null,
+      "creationTime": "2020-05-19T07:39:10.6380846",
+      "inactive": false,
+      "id": 187
+    },
+    {
+      "tenantId": 2,
+      "brandName": "CAP LIMAU",
+      "manufacturerName": null,
+      "creationTime": "2020-02-15T10:28:21.1859068",
+      "inactive": false,
+      "id": 96
+    },
+    {
+      "tenantId": 2,
+      "brandName": "CAP PEMANCING",
+      "manufacturerName": null,
+      "creationTime": "2020-05-19T09:17:41.236101",
+      "inactive": false,
+      "id": 196
+    },
+    {
+      "tenantId": 2,
+      "brandName": "CAP PINGGAN DAN KEROPOK",
+      "manufacturerName": "CAP PINGGAN DAN KEROPOK",
+      "creationTime": "2020-09-21T03:01:41.9207178",
+      "inactive": false,
+      "id": 208
+    },
+    {
+      "tenantId": 2,
+      "brandName": "CHA CHEER",
+      "manufacturerName": "QIAQIA FOOD",
+      "creationTime": "0001-01-01T00:00:00",
+      "inactive": false,
+      "id": 30
+    },
+    {
+      "tenantId": 2,
+      "brandName": "CHESTERFIELD",
+      "manufacturerName": null,
+      "creationTime": "0001-01-01T00:00:00",
+      "inactive": false,
+      "id": 53
+    },
+    {
+      "tenantId": 2,
+      "brandName": "CHIPMORE",
+      "manufacturerName": null,
+      "creationTime": "2020-02-29T07:48:46.4675609",
+      "inactive": false,
+      "id": 103
+    },
+    {
+      "tenantId": 2,
+      "brandName": "CHIPS MORE",
+      "manufacturerName": "MONDELEZ",
+      "creationTime": "2019-11-14T09:17:31.1362594",
+      "inactive": false,
+      "id": 22
+    },
+    {
+      "tenantId": 2,
+      "brandName": "CHOKI-CHOKI",
+      "manufacturerName": "PREMIUM UNITED",
+      "creationTime": "2019-11-14T06:23:43.5195107",
+      "inactive": false,
+      "id": 21
+    },
+    {
+      "tenantId": 2,
+      "brandName": "CHUNBE",
+      "manufacturerName": null,
+      "creationTime": "2020-05-08T02:14:07.4508255",
+      "inactive": false,
+      "id": 179
+    },
+    {
+      "tenantId": 2,
+      "brandName": "COCA COLA",
+      "manufacturerName": null,
+      "creationTime": "2020-01-24T02:41:06.8188363",
+      "inactive": false,
+      "id": 68
+    },
+    {
+      "tenantId": 2,
+      "brandName": "COLGATE",
+      "manufacturerName": null,
+      "creationTime": "2020-01-31T07:42:42.1635863",
+      "inactive": false,
+      "id": 70
+    },
+    {
+      "tenantId": 2,
+      "brandName": "COOL RHINO",
+      "manufacturerName": null,
+      "creationTime": "2020-04-26T08:55:18.8966729",
+      "inactive": false,
+      "id": 144
+    },
+    {
+      "tenantId": 2,
+      "brandName": "COTTON BUDS",
+      "manufacturerName": null,
+      "creationTime": "2020-02-10T06:00:44.6491446",
+      "inactive": false,
+      "id": 86
+    },
+    {
+      "tenantId": 2,
+      "brandName": "CREAM-O",
+      "manufacturerName": null,
+      "creationTime": "2020-05-19T09:02:52.9288808",
+      "inactive": false,
+      "id": 193
+    },
+    {
+      "tenantId": 2,
+      "brandName": "CREMO",
+      "manufacturerName": "CREMO SDN BHD",
+      "creationTime": "2021-08-22T08:35:20.3473834",
+      "inactive": false,
+      "id": 236
+    },
+    {
+      "tenantId": 2,
+      "brandName": "CRICKET",
+      "manufacturerName": null,
+      "creationTime": "2019-12-23T03:24:23.7398137",
+      "inactive": false,
+      "id": 60
+    },
+    {
+      "tenantId": 2,
+      "brandName": "CRISPY",
+      "manufacturerName": null,
+      "creationTime": "2020-05-19T09:14:48.4758741",
+      "inactive": false,
+      "id": 195
+    },
+    {
+      "tenantId": 2,
+      "brandName": "CSR",
+      "manufacturerName": null,
+      "creationTime": "2020-04-24T06:13:26.6063001",
+      "inactive": false,
+      "id": 112
+    },
+    {
+      "tenantId": 2,
+      "brandName": "DAILY`S",
+      "manufacturerName": null,
+      "creationTime": "2019-12-18T12:49:16.6047471",
+      "inactive": false,
+      "id": 58
+    },
+    {
+      "tenantId": 2,
+      "brandName": "DASANI",
+      "manufacturerName": "RO WATER SDN BHD",
+      "creationTime": "2021-07-26T10:56:53.9421745",
+      "inactive": false,
+      "id": 229
+    },
+    {
+      "tenantId": 2,
+      "brandName": "DELFI BLACK THUNDER",
+      "manufacturerName": "MATRIX STAR",
+      "creationTime": "2019-11-14T14:30:18.7498281",
+      "inactive": false,
+      "id": 32
+    },
+    {
+      "tenantId": 2,
+      "brandName": "DELITE",
+      "manufacturerName": null,
+      "creationTime": "2020-05-18T06:33:04.9074093",
+      "inactive": false,
+      "id": 180
+    },
+    {
+      "tenantId": 2,
+      "brandName": "DESA",
+      "manufacturerName": "CHUAN SIN SDN BHD",
+      "creationTime": "2021-10-07T08:02:54.1294223",
+      "inactive": false,
+      "id": 243
+    },
+    {
+      "tenantId": 2,
+      "brandName": "DETTOL",
+      "manufacturerName": null,
+      "creationTime": "2020-05-26T04:32:52.6101653",
+      "inactive": false,
+      "id": 198
+    },
+    {
+      "tenantId": 2,
+      "brandName": "DIAPEX",
+      "manufacturerName": null,
+      "creationTime": "2020-04-28T08:44:41.1174722",
+      "inactive": false,
+      "id": 146
+    },
+    {
+      "tenantId": 2,
+      "brandName": "DOUBLE DECKER",
+      "manufacturerName": "MAMEE",
+      "creationTime": "2019-11-14T03:55:20.7626124",
+      "inactive": false,
+      "id": 6
+    },
+    {
+      "tenantId": 2,
+      "brandName": "DOUBLE RED BIRDS",
+      "manufacturerName": null,
+      "creationTime": "2020-01-31T07:46:14.2623498",
+      "inactive": false,
+      "id": 71
+    },
+    {
+      "tenantId": 2,
+      "brandName": "DOUBLEMINT",
+      "manufacturerName": "WRIGLEY",
+      "creationTime": "2019-11-14T09:51:39.8913207",
+      "inactive": false,
+      "id": 23
+    },
+    {
+      "tenantId": 2,
+      "brandName": "DRINHO",
+      "manufacturerName": "ACE CANNING CORPORATION",
+      "creationTime": "2019-11-15T04:05:00.9252854",
+      "inactive": false,
+      "id": 42
+    },
+    {
+      "tenantId": 2,
+      "brandName": "DUNHILL",
+      "manufacturerName": null,
+      "creationTime": "2020-04-05T00:56:13.9772428",
+      "inactive": false,
+      "id": 106
+    },
+    {
+      "tenantId": 2,
+      "brandName": "DUTCH LADY",
+      "manufacturerName": null,
+      "creationTime": "2020-05-19T07:58:05.0549746",
+      "inactive": false,
+      "id": 191
+    },
+    {
+      "tenantId": 2,
+      "brandName": "ELDER CARE",
+      "manufacturerName": null,
+      "creationTime": "2020-04-28T08:58:09.2537928",
+      "inactive": false,
+      "id": 149
+    },
+    {
+      "tenantId": 2,
+      "brandName": "ENO",
+      "manufacturerName": null,
+      "creationTime": "2020-01-31T07:52:44.9004299",
+      "inactive": false,
+      "id": 72
+    },
+    {
+      "tenantId": 2,
+      "brandName": "EVEREADY",
+      "manufacturerName": null,
+      "creationTime": "2020-02-15T10:18:41.3138482",
+      "inactive": false,
+      "id": 94
+    },
+    {
+      "tenantId": 2,
+      "brandName": "F&N",
+      "manufacturerName": "F&N BEVERAGES",
+      "creationTime": "2019-11-15T01:38:44.6274011",
+      "inactive": false,
+      "id": 39
+    },
+    {
+      "tenantId": 2,
+      "brandName": "F&N KING",
+      "manufacturerName": null,
+      "creationTime": "2019-11-19T12:17:51.7752604",
+      "inactive": false,
+      "id": 48
+    },
+    {
+      "tenantId": 2,
+      "brandName": "FABER CASTELL",
+      "manufacturerName": null,
+      "creationTime": "2020-05-04T09:13:54.7188986",
+      "inactive": false,
+      "id": 162
+    },
+    {
+      "tenantId": 2,
+      "brandName": "FAIZA",
+      "manufacturerName": "FAIZA",
+      "creationTime": "2021-05-28T07:12:38.4827046",
+      "inactive": false,
+      "id": 226
+    },
+    {
+      "tenantId": 2,
+      "brandName": "FANCY ERASER",
+      "manufacturerName": null,
+      "creationTime": "2020-05-07T08:49:23.0777334",
+      "inactive": false,
+      "id": 169
+    },
+    {
+      "tenantId": 2,
+      "brandName": "FARM FRESH",
+      "manufacturerName": "IPOH FARM FRESH",
+      "creationTime": "2020-09-28T08:14:29.4864865",
+      "inactive": false,
+      "id": 209
+    },
+    {
+      "tenantId": 2,
+      "brandName": "FASTER",
+      "manufacturerName": null,
+      "creationTime": "2020-05-04T09:12:11.6281285",
+      "inactive": false,
+      "id": 159
+    },
+    {
+      "tenantId": 2,
+      "brandName": "Fisherman's Friend",
+      "manufacturerName": "FISHERMAN'S FRIEND",
+      "creationTime": "2020-11-05T08:29:57.2195837",
+      "inactive": false,
+      "id": 211
+    },
+    {
+      "tenantId": 2,
+      "brandName": "FLERR",
+      "manufacturerName": null,
+      "creationTime": "2020-02-02T23:03:23.3305774",
+      "inactive": false,
+      "id": 73
+    },
+    {
+      "tenantId": 2,
+      "brandName": "FONS",
+      "manufacturerName": "FONS SDN BHD",
+      "creationTime": "2021-08-22T09:20:31.8185595",
+      "inactive": false,
+      "id": 240
+    },
+    {
+      "tenantId": 2,
+      "brandName": "FRUITS PLUS  ",
+      "manufacturerName": null,
+      "creationTime": "2020-02-11T08:15:46.2799908",
+      "inactive": false,
+      "id": 89
+    },
+    {
+      "tenantId": 2,
+      "brandName": "GAJAH",
+      "manufacturerName": null,
+      "creationTime": "2020-04-24T07:58:49.3963933",
+      "inactive": false,
+      "id": 129
+    },
+    {
+      "tenantId": 2,
+      "brandName": "GAJAH 3",
+      "manufacturerName": null,
+      "creationTime": "2020-04-24T07:08:00.8375339",
+      "inactive": false,
+      "id": 127
+    },
+    {
+      "tenantId": 2,
+      "brandName": "GARDENIA ",
+      "manufacturerName": null,
+      "creationTime": "2020-01-03T07:11:25.6103039",
+      "inactive": false,
+      "id": 62
+    },
+    {
+      "tenantId": 2,
+      "brandName": "GARUDAFOOD",
+      "manufacturerName": "INFINITE MULTI RESOURCES",
+      "creationTime": "2019-11-14T23:20:12.7139875",
+      "inactive": false,
+      "id": 34
+    },
+    {
+      "tenantId": 2,
+      "brandName": "GAVISCON",
+      "manufacturerName": "GAVISCON",
+      "creationTime": "2020-09-01T04:05:54.077288",
+      "inactive": false,
+      "id": 207
+    },
+    {
+      "tenantId": 2,
+      "brandName": "GILLETTE",
+      "manufacturerName": null,
+      "creationTime": "2020-02-10T05:49:36.1506532",
+      "inactive": false,
+      "id": 84
+    },
+    {
+      "tenantId": 2,
+      "brandName": "GOLDEN BALL",
+      "manufacturerName": null,
+      "creationTime": "2020-05-19T08:47:23.6147089",
+      "inactive": false,
+      "id": 192
+    },
+    {
+      "tenantId": 2,
+      "brandName": "GOODDAY ",
+      "manufacturerName": null,
+      "creationTime": "2020-01-17T13:08:44.5714995",
+      "inactive": false,
+      "id": 66
+    },
+    {
+      "tenantId": 2,
+      "brandName": "GRANTT",
+      "manufacturerName": "C-9-5 MEGAN AVENUE 2",
+      "creationTime": "2019-11-18T05:42:33.3492981",
+      "inactive": false,
+      "id": 45
+    },
+    {
+      "tenantId": 2,
+      "brandName": "HACKS",
+      "manufacturerName": "HACKS MALAYSIA",
+      "creationTime": "2019-11-14T13:54:43.5913342",
+      "inactive": false,
+      "id": 31
+    },
+    {
+      "tenantId": 2,
+      "brandName": "HALAGEL",
+      "manufacturerName": null,
+      "creationTime": "2020-05-19T07:38:48.3672703",
+      "inactive": false,
+      "id": 186
+    },
+    {
+      "tenantId": 2,
+      "brandName": "HALLS ",
+      "manufacturerName": "MONDELEZ",
+      "creationTime": "2019-11-14T05:34:59.0150734",
+      "inactive": false,
+      "id": 14
+    },
+    {
+      "tenantId": 2,
+      "brandName": "HANG TUAH",
+      "manufacturerName": null,
+      "creationTime": "2020-05-03T14:51:26.5869341",
+      "inactive": false,
+      "id": 156
+    },
+    {
+      "tenantId": 2,
+      "brandName": "HIJRAH IKHLAS",
+      "manufacturerName": "HIJRAH IKHLAS",
+      "creationTime": "2021-03-12T05:39:24.422641",
+      "inactive": false,
+      "id": 219
+    },
+    {
+      "tenantId": 2,
+      "brandName": "HIMALAYA",
+      "manufacturerName": "NICKO JEEP ",
+      "creationTime": "2019-11-14T11:30:01.8027944",
+      "inactive": false,
+      "id": 24
+    },
+    {
+      "tenantId": 2,
+      "brandName": "HOMESOY",
+      "manufacturerName": null,
+      "creationTime": "2020-02-29T07:58:53.8890547",
+      "inactive": false,
+      "id": 104
+    },
+    {
+      "tenantId": 2,
+      "brandName": "HUDSON",
+      "manufacturerName": "HUDSON",
+      "creationTime": "2020-11-10T11:01:27.2053495",
+      "inactive": false,
+      "id": 213
+    },
+    {
+      "tenantId": 2,
+      "brandName": "HUDSON`S",
+      "manufacturerName": null,
+      "creationTime": "2020-02-08T09:50:25.5331618",
+      "inactive": false,
+      "id": 76
+    },
+    {
+      "tenantId": 2,
+      "brandName": "HUGGIES",
+      "manufacturerName": null,
+      "creationTime": "2020-04-28T08:50:48.5749095",
+      "inactive": false,
+      "id": 147
+    },
+    {
+      "tenantId": 2,
+      "brandName": "HUP SENG",
+      "manufacturerName": null,
+      "creationTime": "2020-05-19T07:37:57.2929717",
+      "inactive": false,
+      "id": 183
+    },
+    {
+      "tenantId": 2,
+      "brandName": "HURIX`S",
+      "manufacturerName": null,
+      "creationTime": "2020-02-10T05:57:33.3108919",
+      "inactive": false,
+      "id": 85
+    },
+    {
+      "tenantId": 2,
+      "brandName": "INTIMATE",
+      "manufacturerName": null,
+      "creationTime": "2020-04-28T08:24:52.7065387",
+      "inactive": false,
+      "id": 145
+    },
+    {
+      "tenantId": 2,
+      "brandName": "JALEN",
+      "manufacturerName": "JALEN",
+      "creationTime": "2021-01-15T08:04:38.0651161",
+      "inactive": false,
+      "id": 215
+    },
+    {
+      "tenantId": 2,
+      "brandName": "JATI",
+      "manufacturerName": null,
+      "creationTime": "2020-04-24T06:46:58.5679596",
+      "inactive": false,
+      "id": 118
+    },
+    {
+      "tenantId": 2,
+      "brandName": "JOYFUL",
+      "manufacturerName": "JOYFUL SDN BHD",
+      "creationTime": "2021-08-22T08:50:00.8863634",
+      "inactive": false,
+      "id": 239
+    },
+    {
+      "tenantId": 2,
+      "brandName": "JUICY FRIUT",
+      "manufacturerName": "WRIGLEY'S",
+      "creationTime": "2019-11-14T11:54:53.6028639",
+      "inactive": false,
+      "id": 25
+    },
+    {
+      "tenantId": 2,
+      "brandName": "KANGAROO",
+      "manufacturerName": null,
+      "creationTime": "2020-05-04T09:11:49.1452504",
+      "inactive": false,
+      "id": 157
+    },
+    {
+      "tenantId": 2,
+      "brandName": "KAPAL API",
+      "manufacturerName": null,
+      "creationTime": "0001-01-01T00:00:00",
+      "inactive": false,
+      "id": 155
+    },
+    {
+      "tenantId": 2,
+      "brandName": "KARA SANTAN",
+      "manufacturerName": null,
+      "creationTime": "2020-04-28T10:02:26.5241813",
+      "inactive": false,
+      "id": 152
+    },
+    {
+      "tenantId": 2,
+      "brandName": "KELUARGA",
+      "manufacturerName": "CA KELUARGA SALES & SERVICES",
+      "creationTime": "2021-07-26T10:58:48.8336669",
+      "inactive": false,
+      "id": 230
+    },
+    {
+      "tenantId": 2,
+      "brandName": "KEREPEK PISANG",
+      "manufacturerName": "KEREPEK PISANG",
+      "creationTime": "2020-02-16T04:30:52.9740542",
+      "inactive": false,
+      "id": 98
+    },
+    {
+      "tenantId": 2,
+      "brandName": "KEROPOK",
+      "manufacturerName": null,
+      "creationTime": "0001-01-01T00:00:00",
+      "inactive": false,
+      "id": 59
+    },
+    {
+      "tenantId": 2,
+      "brandName": "KIMBAL",
+      "manufacturerName": null,
+      "creationTime": "2020-04-24T08:25:51.9689482",
+      "inactive": false,
+      "id": 132
+    },
+    {
+      "tenantId": 2,
+      "brandName": "KINDER BUENO",
+      "manufacturerName": null,
+      "creationTime": "2020-02-17T23:45:44.9788999",
+      "inactive": false,
+      "id": 99
+    },
+    {
+      "tenantId": 2,
+      "brandName": "KINDER JOY",
+      "manufacturerName": null,
+      "creationTime": "2020-02-11T10:24:00.2186429",
+      "inactive": false,
+      "id": 90
+    },
+    {
+      "tenantId": 2,
+      "brandName": "KING CUP",
+      "manufacturerName": null,
+      "creationTime": "2020-04-24T06:30:36.627621",
+      "inactive": false,
+      "id": 114
+    },
+    {
+      "tenantId": 2,
+      "brandName": "KNORR",
+      "manufacturerName": null,
+      "creationTime": "2020-04-24T09:17:20.7745932",
+      "inactive": false,
+      "id": 140
+    },
+    {
+      "tenantId": 2,
+      "brandName": "KOBAYASHI",
+      "manufacturerName": null,
+      "creationTime": "0001-01-01T00:00:00",
+      "inactive": false,
+      "id": 69
+    },
+    {
+      "tenantId": 2,
+      "brandName": "KOKO KRUNCH",
+      "manufacturerName": "1",
+      "creationTime": "2020-06-10T10:33:07.7856503",
+      "inactive": false,
+      "id": 202
+    },
+    {
+      "tenantId": 2,
+      "brandName": "KOPIKO",
+      "manufacturerName": null,
+      "creationTime": "2020-02-08T09:44:58.6651618",
+      "inactive": false,
+      "id": 75
+    },
+    {
+      "tenantId": 2,
+      "brandName": "KOTEX",
+      "manufacturerName": null,
+      "creationTime": "2020-02-12T10:52:41.4795643",
+      "inactive": false,
+      "id": 92
+    },
+    {
+      "tenantId": 2,
+      "brandName": "KYO",
+      "manufacturerName": "KYO",
+      "creationTime": "2020-07-08T04:38:13.811876",
+      "inactive": false,
+      "id": 205
+    },
+    {
+      "tenantId": 2,
+      "brandName": "LESTARI",
+      "manufacturerName": "IPTB",
+      "creationTime": "2021-04-21T07:53:21.6853466",
+      "inactive": false,
+      "id": 223
+    },
+    {
+      "tenantId": 2,
+      "brandName": "LIFEBUOY",
+      "manufacturerName": "LIFEBUOY.SDN",
+      "creationTime": "2021-10-07T03:57:52.2039247",
+      "inactive": false,
+      "id": 242
+    },
+    {
+      "tenantId": 2,
+      "brandName": "LIPTON",
+      "manufacturerName": null,
+      "creationTime": "2020-04-24T08:36:58.205374",
+      "inactive": false,
+      "id": 134
+    },
+    {
+      "tenantId": 2,
+      "brandName": "LIVITA",
+      "manufacturerName": "TAISHO PHARMACEUTICAL",
+      "creationTime": "2019-11-15T05:13:58.3905337",
+      "inactive": false,
+      "id": 43
+    },
+    {
+      "tenantId": 2,
+      "brandName": "LOLIPOP",
+      "manufacturerName": null,
+      "creationTime": "2019-12-06T14:11:30.4903391",
+      "inactive": false,
+      "id": 55
+    },
+    {
+      "tenantId": 2,
+      "brandName": "LOT 100",
+      "manufacturerName": null,
+      "creationTime": "2020-04-08T06:33:25.8677556",
+      "inactive": false,
+      "id": 108
+    },
+    {
+      "tenantId": 2,
+      "brandName": "LUNA",
+      "manufacturerName": null,
+      "creationTime": "2020-05-04T09:12:01.0074631",
+      "inactive": false,
+      "id": 158
+    },
+    {
+      "tenantId": 2,
+      "brandName": "LUX SOAP",
+      "manufacturerName": null,
+      "creationTime": "2020-02-12T08:15:07.1155005",
+      "inactive": false,
+      "id": 91
+    },
+    {
+      "tenantId": 2,
+      "brandName": "MAAJUN",
+      "manufacturerName": "MAAJUN",
+      "creationTime": "2021-04-03T05:41:27.7884481",
+      "inactive": false,
+      "id": 222
+    },
+    {
+      "tenantId": 2,
+      "brandName": "MADU",
+      "manufacturerName": "MADU",
+      "creationTime": "2020-02-19T07:52:45.2448934",
+      "inactive": false,
+      "id": 100
+    },
+    {
+      "tenantId": 2,
+      "brandName": "MAGGI",
+      "manufacturerName": "NESTLE PRODUCT",
+      "creationTime": "2019-11-18T08:08:15.5906415",
+      "inactive": false,
+      "id": 46
+    },
+    {
+      "tenantId": 2,
+      "brandName": "MAGNOLIA ",
+      "manufacturerName": null,
+      "creationTime": "2019-11-19T12:28:00.9052699",
+      "inactive": false,
+      "id": 49
+    },
+    {
+      "tenantId": 2,
+      "brandName": "MAMEE",
+      "manufacturerName": "MAMEE",
+      "creationTime": "2019-11-14T04:23:02.2210091",
+      "inactive": false,
+      "id": 9
+    },
+    {
+      "tenantId": 2,
+      "brandName": "MARCO POLO",
+      "manufacturerName": "MARCO POLO",
+      "creationTime": "2020-02-28T00:48:01.9179034",
+      "inactive": false,
+      "id": 101
+    },
+    {
+      "tenantId": 2,
+      "brandName": "MARIGOLD",
+      "manufacturerName": null,
+      "creationTime": "2020-04-24T06:35:15.6726247",
+      "inactive": false,
+      "id": 116
+    },
+    {
+      "tenantId": 2,
+      "brandName": "MARS",
+      "manufacturerName": "MARS WRIGLEY",
+      "creationTime": "2019-11-14T05:55:03.7889162",
+      "inactive": false,
+      "id": 16
+    },
+    {
+      "tenantId": 2,
+      "brandName": "MASAKU",
+      "manufacturerName": null,
+      "creationTime": "2020-05-19T07:41:17.9987112",
+      "inactive": false,
+      "id": 190
+    },
+    {
+      "tenantId": 2,
+      "brandName": "MAX",
+      "manufacturerName": null,
+      "creationTime": "2020-05-07T09:16:18.5136346",
+      "inactive": false,
+      "id": 173
+    },
+    {
+      "tenantId": 2,
+      "brandName": "MENTOS",
+      "manufacturerName": "PERFETTI VAN MELLE",
+      "creationTime": "2019-11-14T12:06:38.3830577",
+      "inactive": false,
+      "id": 26
+    },
+    {
+      "tenantId": 2,
+      "brandName": "MIAOW",
+      "manufacturerName": "DESA SOUTHERN FOODS",
+      "creationTime": "2019-11-14T13:23:42.796336",
+      "inactive": false,
+      "id": 28
+    },
+    {
+      "tenantId": 2,
+      "brandName": "MISTER POTATO",
+      "manufacturerName": "MAMEE",
+      "creationTime": "2019-11-14T03:33:23.9639356",
+      "inactive": false,
+      "id": 4
+    },
+    {
+      "tenantId": 2,
+      "brandName": "MIWA",
+      "manufacturerName": "MIWA MANUFACTURING SDN BHD",
+      "creationTime": "2021-07-29T04:09:10.5717625",
+      "inactive": false,
+      "id": 232
+    },
+    {
+      "tenantId": 2,
+      "brandName": "MUDIM",
+      "manufacturerName": null,
+      "creationTime": "2020-04-24T06:53:59.0872987",
+      "inactive": false,
+      "id": 121
+    },
+    {
+      "tenantId": 2,
+      "brandName": "MUNIF HIJJAZ",
+      "manufacturerName": "MUNIF HIJJAZ MARKETING SDN BHD",
+      "creationTime": "2021-10-02T03:00:57.8121446",
+      "inactive": false,
+      "id": 241
+    },
+    {
+      "tenantId": 2,
+      "brandName": "N.B.Y",
+      "manufacturerName": null,
+      "creationTime": "2020-04-24T09:20:38.3753342",
+      "inactive": false,
+      "id": 141
+    },
+    {
+      "tenantId": 2,
+      "brandName": "NABATI",
+      "manufacturerName": "NABATI",
+      "creationTime": "2020-02-15T05:17:44.0286099",
+      "inactive": false,
+      "id": 93
+    },
+    {
+      "tenantId": 2,
+      "brandName": "NANONANO",
+      "manufacturerName": "KONIMEX",
+      "creationTime": "2019-11-14T05:29:55.7345574",
+      "inactive": false,
+      "id": 13
+    },
+    {
+      "tenantId": 2,
+      "brandName": "NEOBUN",
+      "manufacturerName": null,
+      "creationTime": "2020-02-10T06:18:03.4437861",
+      "inactive": false,
+      "id": 88
+    },
+    {
+      "tenantId": 2,
+      "brandName": "NESCAFE",
+      "manufacturerName": null,
+      "creationTime": "2019-11-21T05:11:10.1057232",
+      "inactive": false,
+      "id": 50
+    },
+    {
+      "tenantId": 2,
+      "brandName": "NESTLE",
+      "manufacturerName": "NESTLE ASEAN",
+      "creationTime": "2019-11-14T06:18:49.4940498",
+      "inactive": false,
+      "id": 20
+    },
+    {
+      "tenantId": 2,
+      "brandName": "NIKKI",
+      "manufacturerName": null,
+      "creationTime": "2020-05-04T09:13:30.3662462",
+      "inactive": false,
+      "id": 161
+    },
+    {
+      "tenantId": 2,
+      "brandName": "NIPS",
+      "manufacturerName": "URC SNACK FOODS",
+      "creationTime": "2019-11-14T05:21:18.8489248",
+      "inactive": false,
+      "id": 12
+    },
+    {
+      "tenantId": 2,
+      "brandName": "NIVEA",
+      "manufacturerName": "NIVEA",
+      "creationTime": "2020-10-09T07:22:21.226071",
+      "inactive": false,
+      "id": 210
+    },
+    {
+      "tenantId": 2,
+      "brandName": "NOT APPLICABLE",
+      "manufacturerName": null,
+      "creationTime": "2020-04-05T05:12:52.0064687",
+      "inactive": false,
+      "id": 107
+    },
+    {
+      "tenantId": 2,
+      "brandName": "NOYOKU LIGHTER",
+      "manufacturerName": "NOYOKU",
+      "creationTime": "2021-08-18T06:34:28.3942783",
+      "inactive": false,
+      "id": 235
+    },
+    {
+      "tenantId": 2,
+      "brandName": "NUGGETS MILO",
+      "manufacturerName": null,
+      "creationTime": "2020-02-08T13:00:16.0922134",
+      "inactive": false,
+      "id": 77
+    },
+    {
+      "tenantId": 2,
+      "brandName": "NYAM-NYAM",
+      "manufacturerName": "BRGY MANRESA",
+      "creationTime": "2019-11-14T14:33:33.6469345",
+      "inactive": false,
+      "id": 33
+    },
+    {
+      "tenantId": 2,
+      "brandName": "OLI STRAWBERRY",
+      "manufacturerName": "MIWA MANUFACTURING SDN.BHD",
+      "creationTime": "2021-07-29T03:46:37.2333553",
+      "inactive": false,
+      "id": 231
+    },
+    {
+      "tenantId": 2,
+      "brandName": "ORAL-B",
+      "manufacturerName": null,
+      "creationTime": "2020-02-10T05:35:31.9581764",
+      "inactive": false,
+      "id": 83
+    },
+    {
+      "tenantId": 2,
+      "brandName": "OREO",
+      "manufacturerName": "OREO",
+      "creationTime": "2020-07-28T07:38:16.1873331",
+      "inactive": false,
+      "id": 206
+    },
+    {
+      "tenantId": 2,
+      "brandName": "OTHERS",
+      "manufacturerName": null,
+      "creationTime": "0001-01-01T00:00:00",
+      "inactive": false,
+      "id": 150
+    },
+    {
+      "tenantId": 2,
+      "brandName": "OYOSHI",
+      "manufacturerName": "F&N BEVERAGES",
+      "creationTime": "2019-11-15T03:48:17.5878125",
+      "inactive": false,
+      "id": 40
+    },
+    {
+      "tenantId": 2,
+      "brandName": "PANADOL",
+      "manufacturerName": "KINGSTON BEVERAGE",
+      "creationTime": "2019-11-15T11:46:38.5511922",
+      "inactive": false,
+      "id": 44
+    },
+    {
+      "tenantId": 2,
+      "brandName": "PANASONIC",
+      "manufacturerName": null,
+      "creationTime": "2020-03-26T07:39:32.1697106",
+      "inactive": false,
+      "id": 105
+    },
+    {
+      "tenantId": 2,
+      "brandName": "PELEKAT LALAT",
+      "manufacturerName": null,
+      "creationTime": "2020-02-10T06:04:08.339031",
+      "inactive": false,
+      "id": 87
+    },
+    {
+      "tenantId": 2,
+      "brandName": "PETER STUYVESENT",
+      "manufacturerName": null,
+      "creationTime": "0001-01-01T00:00:00",
+      "inactive": false,
+      "id": 54
+    },
+    {
+      "tenantId": 2,
+      "brandName": "PETPET",
+      "manufacturerName": null,
+      "creationTime": "2020-04-28T08:52:45.6236757",
+      "inactive": false,
+      "id": 148
+    },
+    {
+      "tenantId": 2,
+      "brandName": "PIL  CHI KIT TECK AUN",
+      "manufacturerName": "EAGLE&PAGODA BRAND",
+      "creationTime": "2019-11-15T00:53:23.1741509",
+      "inactive": false,
+      "id": 37
+    },
+    {
+      "tenantId": 2,
+      "brandName": "PLANTA",
+      "manufacturerName": null,
+      "creationTime": "2020-04-24T09:12:05.8579139",
+      "inactive": false,
+      "id": 138
+    },
+    {
+      "tenantId": 2,
+      "brandName": "PLASTIK SAMPAH",
+      "manufacturerName": null,
+      "creationTime": "2020-05-19T07:39:56.0561412",
+      "inactive": false,
+      "id": 188
+    },
+    {
+      "tenantId": 2,
+      "brandName": "pop corn",
+      "manufacturerName": "kedai lintasan relau",
+      "creationTime": "2019-12-10T08:33:32.5358074",
+      "inactive": false,
+      "id": 57
+    },
+    {
+      "tenantId": 2,
+      "brandName": "POPO MURUKU",
+      "manufacturerName": "THIEN CHEONG",
+      "creationTime": "0001-01-01T00:00:00",
+      "inactive": false,
+      "id": 3
+    },
+    {
+      "tenantId": 2,
+      "brandName": "POWERPLUS",
+      "manufacturerName": null,
+      "creationTime": "2020-05-08T01:20:39.1013887",
+      "inactive": false,
+      "id": 176
+    },
+    {
+      "tenantId": 2,
+      "brandName": "PRAI",
+      "manufacturerName": null,
+      "creationTime": "2020-04-24T06:13:17.4283913",
+      "inactive": false,
+      "id": 111
+    },
+    {
+      "tenantId": 2,
+      "brandName": "PREGO",
+      "manufacturerName": null,
+      "creationTime": "2020-05-19T09:09:40.0183553",
+      "inactive": false,
+      "id": 194
+    },
+    {
+      "tenantId": 2,
+      "brandName": "PREMIER",
+      "manufacturerName": null,
+      "creationTime": "2020-05-26T04:35:24.3309234",
+      "inactive": false,
+      "id": 199
+    },
+    {
+      "tenantId": 2,
+      "brandName": "PUSH POP",
+      "manufacturerName": "DELFI",
+      "creationTime": "2019-11-14T06:07:38.1404932",
+      "inactive": false,
+      "id": 18
+    },
+    {
+      "tenantId": 2,
+      "brandName": "QI PA",
+      "manufacturerName": null,
+      "creationTime": "2020-05-07T09:23:41.3116749",
+      "inactive": false,
+      "id": 174
+    },
+    {
+      "tenantId": 2,
+      "brandName": "RAMBUTAN",
+      "manufacturerName": null,
+      "creationTime": "2020-04-24T06:47:09.4967658",
+      "inactive": false,
+      "id": 119
+    },
+    {
+      "tenantId": 2,
+      "brandName": "RANGER",
+      "manufacturerName": null,
+      "creationTime": "2020-01-16T08:40:34.6952306",
+      "inactive": false,
+      "id": 63
+    },
+    {
+      "tenantId": 2,
+      "brandName": "REDBULL",
+      "manufacturerName": null,
+      "creationTime": "2020-02-15T11:32:02.6586019",
+      "inactive": false,
+      "id": 97
+    },
+    {
+      "tenantId": 2,
+      "brandName": "REJOICE",
+      "manufacturerName": "REJOICE",
+      "creationTime": "2020-07-07T11:22:25.3668192",
+      "inactive": false,
+      "id": 203
+    },
+    {
+      "tenantId": 2,
+      "brandName": "REMPEYEK",
+      "manufacturerName": "REMPEYEK SDN BHD",
+      "creationTime": "2021-10-19T05:35:56.9898392",
+      "inactive": false,
+      "id": 245
+    },
+    {
+      "tenantId": 2,
+      "brandName": "RIDSECT",
+      "manufacturerName": null,
+      "creationTime": "2020-04-28T09:11:44.5140658",
+      "inactive": false,
+      "id": 151
+    },
+    {
+      "tenantId": 2,
+      "brandName": "RODA",
+      "manufacturerName": null,
+      "creationTime": "2020-05-19T07:38:30.96608",
+      "inactive": false,
+      "id": 185
+    },
+    {
+      "tenantId": 2,
+      "brandName": "RODA TERBANG",
+      "manufacturerName": null,
+      "creationTime": "2020-04-24T06:23:29.5296676",
+      "inactive": false,
+      "id": 113
+    },
+    {
+      "tenantId": 2,
+      "brandName": "RONGYI ",
+      "manufacturerName": null,
+      "creationTime": "2020-05-07T08:58:20.7505743",
+      "inactive": false,
+      "id": 170
+    },
+    {
+      "tenantId": 2,
+      "brandName": "ROS",
+      "manufacturerName": null,
+      "creationTime": "2020-04-24T07:07:34.7246288",
+      "inactive": false,
+      "id": 126
+    },
+    {
+      "tenantId": 2,
+      "brandName": "ROSTIK",
+      "manufacturerName": "ORIENTAL",
+      "creationTime": "2019-11-14T04:09:26.1093133",
+      "inactive": false,
+      "id": 7
+    },
+    {
+      "tenantId": 2,
+      "brandName": "ROTA",
+      "manufacturerName": "ORIENTAL FOOD INDUSTRIES SDN BHD",
+      "creationTime": "2021-10-26T08:05:21.5948958",
+      "inactive": false,
+      "id": 246
+    },
+    {
+      "tenantId": 2,
+      "brandName": "ROTHMANS",
+      "manufacturerName": null,
+      "creationTime": "2020-04-10T05:02:21.2912995",
+      "inactive": false,
+      "id": 109
+    },
+    {
+      "tenantId": 2,
+      "brandName": "RULER",
+      "manufacturerName": null,
+      "creationTime": "2020-05-08T02:06:43.6565588",
+      "inactive": false,
+      "id": 178
+    },
+    {
+      "tenantId": 2,
+      "brandName": "SAFINA",
+      "manufacturerName": null,
+      "creationTime": "2020-04-24T09:26:23.4339123",
+      "inactive": false,
+      "id": 143
+    },
+    {
+      "tenantId": 2,
+      "brandName": "SAJIKU",
+      "manufacturerName": null,
+      "creationTime": "2020-04-24T09:08:09.1684449",
+      "inactive": false,
+      "id": 137
+    },
+    {
+      "tenantId": 2,
+      "brandName": "SAMYANG",
+      "manufacturerName": null,
+      "creationTime": "2020-02-28T09:57:52.3054085",
+      "inactive": false,
+      "id": 102
+    },
+    {
+      "tenantId": 2,
+      "brandName": "SAUH",
+      "manufacturerName": null,
+      "creationTime": "2020-04-24T07:07:23.7863058",
+      "inactive": false,
+      "id": 125
+    },
+    {
+      "tenantId": 2,
+      "brandName": "SDI",
+      "manufacturerName": null,
+      "creationTime": "2020-05-04T09:14:12.4471242",
+      "inactive": false,
+      "id": 163
+    },
+    {
+      "tenantId": 2,
+      "brandName": "SEASONS",
+      "manufacturerName": "F&N MARKETING",
+      "creationTime": "2019-11-15T03:57:35.9312385",
+      "inactive": false,
+      "id": 41
+    },
+    {
+      "tenantId": 2,
+      "brandName": "SERI PELANGI",
+      "manufacturerName": null,
+      "creationTime": "2020-04-28T10:29:30.2941761",
+      "inactive": false,
+      "id": 154
+    },
+    {
+      "tenantId": 2,
+      "brandName": "SKYGEL",
+      "manufacturerName": null,
+      "creationTime": "2020-05-26T04:53:04.7455659",
+      "inactive": false,
+      "id": 201
+    },
+    {
+      "tenantId": 2,
+      "brandName": "SMAX",
+      "manufacturerName": null,
+      "creationTime": "2020-05-18T09:00:17.5336857",
+      "inactive": false,
+      "id": 181
+    },
+    {
+      "tenantId": 2,
+      "brandName": "SNEK KU",
+      "manufacturerName": "NSF",
+      "creationTime": "2019-11-14T04:10:05.5259752",
+      "inactive": false,
+      "id": 8
+    },
+    {
+      "tenantId": 2,
+      "brandName": "SNICKERS",
+      "manufacturerName": "MARS FOODS",
+      "creationTime": "2019-11-14T05:50:34.2501488",
+      "inactive": false,
+      "id": 15
+    },
+    {
+      "tenantId": 2,
+      "brandName": "STABILO",
+      "manufacturerName": null,
+      "creationTime": "2020-05-04T09:15:02.2658248",
+      "inactive": false,
+      "id": 166
+    },
+    {
+      "tenantId": 2,
+      "brandName": "STAR ",
+      "manufacturerName": null,
+      "creationTime": "2020-04-24T08:06:55.7629737",
+      "inactive": false,
+      "id": 130
+    },
+    {
+      "tenantId": 2,
+      "brandName": "STREPSILS",
+      "manufacturerName": null,
+      "creationTime": "2020-01-17T12:10:19.1337871",
+      "inactive": false,
+      "id": 64
+    },
+    {
+      "tenantId": 2,
+      "brandName": "SUFI",
+      "manufacturerName": "SUFI",
+      "creationTime": "2021-02-20T07:22:50.2265351",
+      "inactive": false,
+      "id": 217
+    },
+    {
+      "tenantId": 2,
+      "brandName": "SUGUS",
+      "manufacturerName": "MARS FOODS",
+      "creationTime": "2019-11-14T06:11:40.69625",
+      "inactive": false,
+      "id": 19
+    },
+    {
+      "tenantId": 2,
+      "brandName": "SUMMERFIELD",
+      "manufacturerName": "HYBRID ALLIED DAIRY COMPANY SDN BHD",
+      "creationTime": "2021-07-29T04:28:08.5121409",
+      "inactive": false,
+      "id": 233
+    },
+    {
+      "tenantId": 2,
+      "brandName": "SUNKIST",
+      "manufacturerName": null,
+      "creationTime": "2019-12-26T10:00:16.7122887",
+      "inactive": false,
+      "id": 61
+    },
+    {
+      "tenantId": 2,
+      "brandName": "SUNLIGHT ",
+      "manufacturerName": null,
+      "creationTime": "2020-04-24T06:58:41.0908318",
+      "inactive": false,
+      "id": 123
+    },
+    {
+      "tenantId": 2,
+      "brandName": "SUNLIGTH",
+      "manufacturerName": null,
+      "creationTime": "2020-04-24T08:15:58.1541665",
+      "inactive": false,
+      "id": 131
+    },
+    {
+      "tenantId": 2,
+      "brandName": "SUNQUICK",
+      "manufacturerName": null,
+      "creationTime": "0001-01-01T00:00:00",
+      "inactive": false,
+      "id": 133
+    },
+    {
+      "tenantId": 2,
+      "brandName": "SUNSILK",
+      "manufacturerName": "SUNSILK",
+      "creationTime": "2020-07-07T11:34:33.7251994",
+      "inactive": false,
+      "id": 204
+    },
+    {
+      "tenantId": 2,
+      "brandName": "SUNTREE",
+      "manufacturerName": null,
+      "creationTime": "2020-04-24T09:26:09.8849391",
+      "inactive": false,
+      "id": 142
+    },
+    {
+      "tenantId": 2,
+      "brandName": "SUPER RING",
+      "manufacturerName": " ORIENTAL",
+      "creationTime": "2019-11-14T04:29:23.9827855",
+      "inactive": false,
+      "id": 10
+    },
+    {
+      "tenantId": 2,
+      "brandName": "SUPERIOR",
+      "manufacturerName": null,
+      "creationTime": "2020-05-04T09:15:37.6568953",
+      "inactive": false,
+      "id": 168
+    },
+    {
+      "tenantId": 2,
+      "brandName": "SWEET SOUR",
+      "manufacturerName": "SWEET SOUR",
+      "creationTime": "2020-11-10T06:01:52.3581778",
+      "inactive": false,
+      "id": 212
+    },
+    {
+      "tenantId": 2,
+      "brandName": "SWEETTAPE",
+      "manufacturerName": null,
+      "creationTime": "2020-05-08T01:32:56.9213689",
+      "inactive": false,
+      "id": 177
+    },
+    {
+      "tenantId": 2,
+      "brandName": "SyaFiq",
+      "manufacturerName": null,
+      "creationTime": "2020-04-24T09:14:13.6422506",
+      "inactive": false,
+      "id": 139
+    },
+    {
+      "tenantId": 2,
+      "brandName": "THUMBS ",
+      "manufacturerName": "NGAN YIN",
+      "creationTime": "2019-11-14T13:36:59.0477317",
+      "inactive": false,
+      "id": 29
+    },
+    {
+      "tenantId": 2,
+      "brandName": "TIAN CAI ",
+      "manufacturerName": null,
+      "creationTime": "2020-05-07T09:03:53.2347512",
+      "inactive": false,
+      "id": 171
+    },
+    {
+      "tenantId": 2,
+      "brandName": "TIC TOCK",
+      "manufacturerName": null,
+      "creationTime": "2020-05-04T09:15:21.0958784",
+      "inactive": false,
+      "id": 167
+    },
+    {
+      "tenantId": 2,
+      "brandName": "TIC-TAC",
+      "manufacturerName": "FERRERO",
+      "creationTime": "2019-11-14T05:58:30.6661544",
+      "inactive": false,
+      "id": 17
+    },
+    {
+      "tenantId": 2,
+      "brandName": "TIGER",
+      "manufacturerName": null,
+      "creationTime": "2020-02-10T03:04:08.0791958",
+      "inactive": false,
+      "id": 78
+    },
+    {
+      "tenantId": 2,
+      "brandName": "TIP TOP",
+      "manufacturerName": null,
+      "creationTime": "2020-05-04T09:13:15.3825027",
+      "inactive": false,
+      "id": 160
+    },
+    {
+      "tenantId": 2,
+      "brandName": "TONG GARDEN ",
+      "manufacturerName": "TONG GARDEN",
+      "creationTime": "2019-11-14T12:38:41.1068386",
+      "inactive": false,
+      "id": 27
+    },
+    {
+      "tenantId": 2,
+      "brandName": "TOPPLAST",
+      "manufacturerName": null,
+      "creationTime": "2020-04-21T02:05:55.9539801",
+      "inactive": false,
+      "id": 110
+    },
+    {
+      "tenantId": 2,
+      "brandName": "TORRONE",
+      "manufacturerName": "TORRONE",
+      "creationTime": "2020-11-14T04:29:07.6977499",
+      "inactive": false,
+      "id": 214
+    },
+    {
+      "tenantId": 2,
+      "brandName": "TRADE MARK",
+      "manufacturerName": "LEUNG KAI FOOK MEDICAL",
+      "creationTime": "2019-11-15T00:46:15.3825489",
+      "inactive": false,
+      "id": 36
+    },
+    {
+      "tenantId": 2,
+      "brandName": "TWISTER",
+      "manufacturerName": null,
+      "creationTime": "0001-01-01T00:00:00",
+      "inactive": false,
+      "id": 67
+    },
+    {
+      "tenantId": 2,
+      "brandName": "TWISTIES",
+      "manufacturerName": "MONDELEZ",
+      "creationTime": "2019-11-14T04:49:47.1225292",
+      "inactive": false,
+      "id": 11
+    },
+    {
+      "tenantId": 2,
+      "brandName": "UBAT BATUK CAP IBU DAN ANAK",
+      "manufacturerName": null,
+      "creationTime": "0001-01-01T00:00:00",
+      "inactive": false,
+      "id": 95
+    },
+    {
+      "tenantId": 2,
+      "brandName": "UHU",
+      "manufacturerName": null,
+      "creationTime": "2020-05-04T09:14:47.5200466",
+      "inactive": false,
+      "id": 165
+    },
+    {
+      "tenantId": 2,
+      "brandName": "UNI NORTHERN TRADING",
+      "manufacturerName": "UNI NORTHERN TRADING",
+      "creationTime": "2021-05-24T06:27:34.3043864",
+      "inactive": false,
+      "id": 225
+    },
+    {
+      "tenantId": 2,
+      "brandName": "uphamol 650",
+      "manufacturerName": "uphamol 650",
+      "creationTime": "2021-08-03T06:24:48.0078259",
+      "inactive": false,
+      "id": 234
+    },
+    {
+      "tenantId": 2,
+      "brandName": "WONDA",
+      "manufacturerName": null,
+      "creationTime": "2020-02-10T05:21:07.4887657",
+      "inactive": false,
+      "id": 82
+    },
+    {
+      "tenantId": 2,
+      "brandName": "WONDERFUL",
+      "manufacturerName": null,
+      "creationTime": "2019-11-19T11:05:38.3981498",
+      "inactive": false,
+      "id": 47
+    },
+    {
+      "tenantId": 2,
+      "brandName": "WONDERFUL SDN BHD",
+      "manufacturerName": "WONDERFUL SDN BHD",
+      "creationTime": "2021-08-22T08:49:44.91588",
+      "inactive": false,
+      "id": 238
+    },
+    {
+      "tenantId": 2,
+      "brandName": "WOODS",
+      "manufacturerName": "WOODS",
+      "creationTime": "0001-01-01T00:00:00",
+      "inactive": false,
+      "id": 2
+    },
+    {
+      "tenantId": 2,
+      "brandName": "YAZILAN",
+      "manufacturerName": null,
+      "creationTime": "2020-05-22T02:45:50.5603909",
+      "inactive": false,
+      "id": 197
+    },
+    {
+      "tenantId": 2,
+      "brandName": "YUPI",
+      "manufacturerName": "YUPI INDO JELLY GUM SDN BHD",
+      "creationTime": "2021-10-11T07:14:45.4800987",
+      "inactive": false,
+      "id": 244
+    },
+    {
+      "tenantId": 2,
+      "brandName": "YUSUF TAIYOOB",
+      "manufacturerName": "YUSUF TAIYOOB",
+      "creationTime": "2021-03-31T06:50:07.8846037",
+      "inactive": false,
+      "id": 221
+    },
+    {
+      "tenantId": 2,
+      "brandName": "ZESS",
+      "manufacturerName": null,
+      "creationTime": "2020-02-10T04:51:09.333582",
+      "inactive": false,
+      "id": 81
+    },
+    {
+      "tenantId": 2,
+      "brandName": "ZINON FOOD INDUSTRY",
+      "manufacturerName": "ZINON FOOD INDUSTRY",
+      "creationTime": "2021-02-20T07:29:08.6932165",
+      "inactive": false,
+      "id": 218
+    }
+  ],
+  "categories": [
+    {
+      "tenantId": 2,
+      "name": "BREAD",
+      "creationTime": "0001-01-01T00:00:00",
+      "parentId": 0,
+      "inactive": false,
+      "id": 14
+    },
+    {
+      "tenantId": 2,
+      "name": "CAR PERFUMES",
+      "creationTime": "0001-01-01T00:00:00",
+      "parentId": 0,
+      "inactive": false,
+      "id": 16
+    },
+    {
+      "tenantId": 2,
+      "name": "CARE PRODUCT",
+      "creationTime": "2020-05-07T09:36:06.0995199",
+      "parentId": 0,
+      "inactive": false,
+      "id": 26
+    },
+    {
+      "tenantId": 2,
+      "name": "CIGARETTES",
+      "creationTime": "0001-01-01T00:00:00",
+      "parentId": 0,
+      "inactive": false,
+      "id": 2
+    },
+    {
+      "tenantId": 2,
+      "name": "CONFECTIONERY",
+      "creationTime": "0001-01-01T00:00:00",
+      "parentId": 0,
+      "inactive": false,
+      "id": 24
+    },
+    {
+      "tenantId": 2,
+      "name": "DIESEL",
+      "creationTime": "0001-01-01T00:00:00",
+      "parentId": 0,
+      "inactive": false,
+      "id": 7
+    },
+    {
+      "tenantId": 2,
+      "name": "DRINKS",
+      "creationTime": "2020-03-24T08:59:25.9309831",
+      "parentId": 0,
+      "inactive": false,
+      "id": 22
+    },
+    {
+      "tenantId": 2,
+      "name": "FACE MASK",
+      "creationTime": "0001-01-01T00:00:00",
+      "parentId": 0,
+      "inactive": false,
+      "id": 12
+    },
+    {
+      "tenantId": 2,
+      "name": "GRANTT LUBRICANTS",
+      "creationTime": "0001-01-01T00:00:00",
+      "parentId": 0,
+      "inactive": false,
+      "id": 8
+    },
+    {
+      "tenantId": 2,
+      "name": "GROCERY",
+      "creationTime": "0001-01-01T00:00:00",
+      "parentId": 0,
+      "inactive": false,
+      "id": 25
+    },
+    {
+      "tenantId": 2,
+      "name": "HOUSEHOLD ITEMS",
+      "creationTime": "0001-01-01T00:00:00",
+      "parentId": 0,
+      "inactive": false,
+      "id": 17
+    },
+    {
+      "tenantId": 2,
+      "name": "ICE CREAM",
+      "creationTime": "2019-11-19T11:05:55.9947559",
+      "parentId": 0,
+      "inactive": false,
+      "id": 10
+    },
+    {
+      "tenantId": 2,
+      "name": "IKS PRODUCT",
+      "creationTime": "0001-01-01T00:00:00",
+      "parentId": 0,
+      "inactive": false,
+      "id": 19
+    },
+    {
+      "tenantId": 2,
+      "name": "INSTANT NOODLES",
+      "creationTime": "0001-01-01T00:00:00",
+      "parentId": 0,
+      "inactive": false,
+      "id": 9
+    },
+    {
+      "tenantId": 2,
+      "name": "LIGHTER",
+      "creationTime": "2019-12-23T03:24:44.6475244",
+      "parentId": 0,
+      "inactive": false,
+      "id": 15
+    },
+    {
+      "tenantId": 2,
+      "name": "MEDICINAL PRODUCTS",
+      "creationTime": "0001-01-01T00:00:00",
+      "parentId": 0,
+      "inactive": false,
+      "id": 6
+    },
+    {
+      "tenantId": 2,
+      "name": "MEDICINAL PRODUCTS",
+      "creationTime": "2020-05-26T04:18:23.539547",
+      "parentId": 0,
+      "inactive": false,
+      "id": 28
+    },
+    {
+      "tenantId": 2,
+      "name": "MULTIPURPOSE",
+      "creationTime": "2020-05-08T01:17:33.9176757",
+      "parentId": 0,
+      "inactive": false,
+      "id": 27
+    },
+    {
+      "tenantId": 2,
+      "name": "N/A",
+      "creationTime": "0001-01-01T00:00:00",
+      "parentId": 0,
+      "inactive": true,
+      "id": 3
+    },
+    {
+      "tenantId": 2,
+      "name": "N/A",
+      "creationTime": "0001-01-01T00:00:00",
+      "parentId": 0,
+      "inactive": true,
+      "id": 5
+    },
+    {
+      "tenantId": 2,
+      "name": "N/A",
+      "creationTime": "0001-01-01T00:00:00",
+      "parentId": 0,
+      "inactive": true,
+      "id": 13
+    },
+    {
+      "tenantId": 2,
+      "name": "OTHERS",
+      "creationTime": "0001-01-01T00:00:00",
+      "parentId": 0,
+      "inactive": false,
+      "id": 18
+    },
+    {
+      "tenantId": 2,
+      "name": "PERSONAL CARE",
+      "creationTime": "0001-01-01T00:00:00",
+      "parentId": 0,
+      "inactive": false,
+      "id": 20
+    },
+    {
+      "tenantId": 2,
+      "name": "PETROL RON 95",
+      "creationTime": "0001-01-01T00:00:00",
+      "parentId": 0,
+      "inactive": false,
+      "id": 1
+    },
+    {
+      "tenantId": 2,
+      "name": "SNACK/CHIPS",
+      "creationTime": "0001-01-01T00:00:00",
+      "parentId": 0,
+      "inactive": false,
+      "id": 4
+    },
+    {
+      "tenantId": 2,
+      "name": "STATIONERY",
+      "creationTime": "0001-01-01T00:00:00",
+      "parentId": 0,
+      "inactive": false,
+      "id": 23
+    },
+    {
+      "tenantId": 2,
+      "name": "TOILETRIES",
+      "creationTime": "0001-01-01T00:00:00",
+      "parentId": 0,
+      "inactive": false,
+      "id": 21
+    }
+  ],
+  "suppliers": [
+    {
+      "tenantId": 2,
+      "name": "ABANG TELUR EMPAYAR",
+      "registrationNumber": "SUP0000034",
+      "creationTime": "2021-01-26T03:37:04.5382393",
+      "address1": "LOT 1922 JALAN PASAR",
+      "address2": null,
+      "city": "TAIPING",
+      "province": null,
+      "postcode": "34000",
+      "country": "MALAYSIA",
+      "phoneNumber": "0142568103",
+      "faxNumber": null,
+      "contactName": "ABANG TELUR EMPAYAR",
+      "email": "abang teloq@gmail.com",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 34
+    },
+    {
+      "tenantId": 2,
+      "name": "AEON TAMAN NALURI",
+      "registrationNumber": "SUP0000006",
+      "creationTime": "0001-01-01T00:00:00",
+      "address1": "3RD FLR,AEON TAMAN NALURI CHERAS,55100 KUALA LUMPUR",
+      "address2": null,
+      "city": "CHERAS",
+      "province": "KUALA LUMPUR",
+      "postcode": "55100",
+      "country": "Malaysia",
+      "phoneNumber": null,
+      "faxNumber": "130080",
+      "contactName": null,
+      "email": "buraqoilgunungsemanggol2019@gmail.com",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 6
+    },
+    {
+      "tenantId": 2,
+      "name": "AMITY CONCRETE SDN . BHD .",
+      "registrationNumber": "SUP0000002",
+      "creationTime": "0001-01-01T00:00:00",
+      "address1": "NO . 18 , LORONG 3 , TAMAN MAS , 34000 TAIPING , PERAK ",
+      "address2": null,
+      "city": "PERAK",
+      "province": "TAIPING",
+      "postcode": "34000",
+      "country": "Malaysia",
+      "phoneNumber": "0125122473",
+      "faxNumber": null,
+      "contactName": null,
+      "email": "buraqoilgunungsemanggol2019@gmail.com",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 2
+    },
+    {
+      "tenantId": 2,
+      "name": "ANEKA KEREPEK PISANG",
+      "registrationNumber": "SUP0000021",
+      "creationTime": "2020-02-16T04:27:15.5563869",
+      "address1": "BLOK B TAMAN INDAH JAYA",
+      "address2": null,
+      "city": "SEMANGGOL",
+      "province": "BAGAN SERAI",
+      "postcode": "34400",
+      "country": "MALAYSIA",
+      "phoneNumber": "0185783221",
+      "faxNumber": null,
+      "contactName": null,
+      "email": "buraqoilsemanggol@gmail.com",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 21
+    },
+    {
+      "tenantId": 2,
+      "name": "BAN CHUAN AGENCY SDN BHD",
+      "registrationNumber": "SUP0000011",
+      "creationTime": "2019-12-06T09:57:01.21732",
+      "address1": "NO 32,HAPPY PARK,JALAN KAMUNTING TAIPING 34600",
+      "address2": null,
+      "city": "TAIPING",
+      "province": "PERAK",
+      "postcode": "34600",
+      "country": "MALAYSIA",
+      "phoneNumber": "0195442652",
+      "faxNumber": "058087630",
+      "contactName": "MOHD IMRAN",
+      "email": "BAN CHUAN@GMAIL.COM",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 11
+    },
+    {
+      "tenantId": 2,
+      "name": "BOON LEE FOOD INDUSTRIES SDN BHD",
+      "registrationNumber": "SUP0000016",
+      "creationTime": "2019-12-20T10:32:25.6704597",
+      "address1": "NBO.19 JALAN PERINDUSTRIAN KAMUNTING JAYA,KAMUNTING JAYA 2,34600",
+      "address2": "KAMUNTING,TAIPING,PERAK",
+      "city": "PERAK",
+      "province": "KAMUNTING",
+      "postcode": "34600",
+      "country": "MALAYSIA",
+      "phoneNumber": null,
+      "faxNumber": "05-8911092",
+      "contactName": null,
+      "email": "boonleefood@gmail.coom",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 16
+    },
+    {
+      "tenantId": 2,
+      "name": "BURAQ MART SDN BHD",
+      "registrationNumber": "SUP0000033",
+      "creationTime": "2021-01-15T08:15:52.6783944",
+      "address1": "2410, JALAN PERUSAHAAN KAWASAN PERUSAHAAN PRAI 13600 PRAI PULAU PINANG",
+      "address2": "0362861000",
+      "city": "PULAU PINANG",
+      "province": null,
+      "postcode": "13600",
+      "country": "MALAYSIA",
+      "phoneNumber": null,
+      "faxNumber": null,
+      "contactName": null,
+      "email": "aqilahzulkipli2007@gmail.com",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 33
+    },
+    {
+      "tenantId": 2,
+      "name": "BURAQOIL CORPORATION SDN BHD",
+      "registrationNumber": "SUP0000007",
+      "creationTime": "2019-11-18T05:39:35.9685628",
+      "address1": "C-9-5 MEGAN AVENUE 2,NO 12 JALAN YAP KWAN SENG",
+      "address2": null,
+      "city": "KUALA LUMPUR",
+      "province": "KUALA LUMPUR",
+      "postcode": "50450",
+      "country": "Malaysia",
+      "phoneNumber": "03-21661285",
+      "faxNumber": "03-21612186",
+      "contactName": null,
+      "email": "AZIZAN@BURAQOIL.COM.MY",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 7
+    },
+    {
+      "tenantId": 2,
+      "name": "BURAQOIL DEVELOPMENT SDN BHD",
+      "registrationNumber": "SUP0000035",
+      "creationTime": "2021-02-10T09:12:20.1570308",
+      "address1": "C-9,BLOCK C, LEVEL 9,MEGAN AVENUE 11,NO 12,JALAN YAP KWAN SENG KUALA LUMPUR",
+      "address2": "0186669869",
+      "city": "KUALA LUMPUR",
+      "province": "PERAK",
+      "postcode": "50450",
+      "country": "MALAYSIA",
+      "phoneNumber": "03-2166-1285",
+      "faxNumber": "03-21612186",
+      "contactName": "AIMAN",
+      "email": "buraqoilsemanggol@gmail.com",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 35
+    },
+    {
+      "tenantId": 2,
+      "name": "BURAQOIL TANJUNG BELANJA",
+      "registrationNumber": "SUP0000027",
+      "creationTime": "2020-08-01T01:24:37.4133105",
+      "address1": "TANJUNG BELANJA",
+      "address2": "0362861000",
+      "city": "PERAK",
+      "province": null,
+      "postcode": "31400",
+      "country": "Malaysia",
+      "phoneNumber": null,
+      "faxNumber": null,
+      "contactName": null,
+      "email": "buraqoilsemanggol@gmail.com",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 27
+    },
+    {
+      "tenantId": 2,
+      "name": "CHOP NAM HUAT",
+      "registrationNumber": "SUP0000023",
+      "creationTime": "2020-04-24T08:03:13.5096894",
+      "address1": "NO 2077 JALAN KEDAH 13200 KEPALA BATAS",
+      "address2": null,
+      "city": "KEPALA BATAS",
+      "province": "kedah",
+      "postcode": "13200",
+      "country": "MALAYSIA",
+      "phoneNumber": null,
+      "faxNumber": null,
+      "contactName": null,
+      "email": "buraqoilsemanggol@gmai.com",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 23
+    },
+    {
+      "tenantId": 2,
+      "name": "CHOP TEOW GUAN HIN",
+      "registrationNumber": "SUP0000024",
+      "creationTime": "2020-05-03T14:38:51.6560803",
+      "address1": "2080 JALAN KEDAH, KEPALA BATAS",
+      "address2": "PULAU PINANG",
+      "city": "PULAU PINANG",
+      "province": null,
+      "postcode": "13200",
+      "country": "MALAYSIA",
+      "phoneNumber": "04-5751401",
+      "faxNumber": null,
+      "contactName": null,
+      "email": "buraqoilgunungsemanggol2019@gmail.com",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 24
+    },
+    {
+      "tenantId": 2,
+      "name": "CONSIGNMENT PEWANGI KERETA ",
+      "registrationNumber": "SUP0000019",
+      "creationTime": "2020-02-02T23:09:41.4210727",
+      "address1": "CONSIGNMENT PEWANGI KERETA ",
+      "address2": null,
+      "city": "PERAK",
+      "province": null,
+      "postcode": "34400",
+      "country": "MALAYSIA",
+      "phoneNumber": "0125607248",
+      "faxNumber": null,
+      "contactName": "AIN",
+      "email": "buraqoilsemanggol@gmail.com",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 19
+    },
+    {
+      "tenantId": 2,
+      "name": "DAILY`S BAKERY",
+      "registrationNumber": "SUP0000014",
+      "creationTime": "0001-01-01T00:00:00",
+      "address1": "PT 6123,JALAN TECHVALLEY 1,KAW,PERINDUSTRIAN SENDAYAN TECHVALLEY,71950 BANDAR SRI SENDAYAN,",
+      "address2": "N,SEMBILAN.",
+      "city": "N.SEMBILAN",
+      "province": "N.SEMBILAN",
+      "postcode": "71950",
+      "country": "N.SEMBILAN",
+      "phoneNumber": null,
+      "faxNumber": "075576334",
+      "contactName": null,
+      "email": "buraqoilgunungsemanggol2019@gmail.com",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 14
+    },
+    {
+      "tenantId": 2,
+      "name": "DESA SOUTHERN AGENCY",
+      "registrationNumber": "SUP0000003",
+      "creationTime": "0001-01-01T00:00:00",
+      "address1": "NO.41.LORONG 1,TAMAN LAGENDA,JALAN MATANG,34700 SIMPANG,TAIPING,PERAK,MALAYSIA",
+      "address2": null,
+      "city": "TAIPING",
+      "province": "PERAK",
+      "postcode": "34400",
+      "country": "Malaysia",
+      "phoneNumber": "058479794",
+      "faxNumber": "058479794",
+      "contactName": null,
+      "email": "tp@miaow.com.my",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 3
+    },
+    {
+      "tenantId": 2,
+      "name": "FFBG ENTERPRISE",
+      "registrationNumber": "SUP0000039",
+      "creationTime": "2021-07-29T03:42:22.3207474",
+      "address1": "NO.36 JALAN MERU PERDANA 2 , TAMAN MERU PERDANA 31200, CHEMOR, PERAK",
+      "address2": "0186669869",
+      "city": "KAMUNTING",
+      "province": "PERAK",
+      "postcode": "34600",
+      "country": "Malaysia",
+      "phoneNumber": "01115439559",
+      "faxNumber": null,
+      "contactName": "AZIE",
+      "email": "buraqoilsemanggol@gmail.com",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 39
+    },
+    {
+      "tenantId": 2,
+      "name": "GARDENIA BAKERIES",
+      "registrationNumber": "SUP0000017",
+      "creationTime": "0001-01-01T00:00:00",
+      "address1": "LOT 3,JALAN PELABUR 23/1 40300 SHAH ALAM,SELANGOR.",
+      "address2": null,
+      "city": "SELANGOR",
+      "province": "SHAH ALAM",
+      "postcode": "403000",
+      "country": "SELANGOR",
+      "phoneNumber": "03-55423228",
+      "faxNumber": "03-55423213",
+      "contactName": null,
+      "email": "buraqoilgunungsemanggol2019@gmail.com",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 17
+    },
+    {
+      "tenantId": 2,
+      "name": "GRAND FROZEN ENTERPRISE",
+      "registrationNumber": "SUP0000022",
+      "creationTime": "2020-02-28T00:44:41.2962254",
+      "address1": "NO. 416, LORONG TERATAI, TAMAN KAMUNTING JAYA 34600 KAMUNTING, TAIPING, PERAK",
+      "address2": null,
+      "city": "KAMUNTING",
+      "province": "PERAK",
+      "postcode": "34600",
+      "country": "MALAYSIA",
+      "phoneNumber": "018-6669869",
+      "faxNumber": "05-8913717",
+      "contactName": null,
+      "email": "buraqoilsemanggol@gmail.com",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 22
+    },
+    {
+      "tenantId": 2,
+      "name": "HIJRAH IKHLAS",
+      "registrationNumber": "SUP0000036",
+      "creationTime": "2021-03-12T06:37:22.0822295",
+      "address1": "921. H PDG MENORA PENANG",
+      "address2": "0362861000",
+      "city": "PULAU PINANG",
+      "province": null,
+      "postcode": "13600",
+      "country": "Malaysia",
+      "phoneNumber": "0134807028",
+      "faxNumber": null,
+      "contactName": "BURAQ MART SDN BHD",
+      "email": "aqilahzulkipli2007@gmail.com",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 36
+    },
+    {
+      "tenantId": 2,
+      "name": "HONG  BEE DISTRIBUTORS SDN.BHD",
+      "registrationNumber": "SUP0000018",
+      "creationTime": "2020-01-24T02:40:06.6403803",
+      "address1": "PLOT 16,JALAN INDUSTRI 4/1,KAWASAN PERINDUSTRIAN GOPENG ,31600 GOPENG PERAK ",
+      "address2": null,
+      "city": "GOPENG",
+      "province": "GOPENG",
+      "postcode": "31600",
+      "country": "PERAK",
+      "phoneNumber": "05-3576796",
+      "faxNumber": "05-3576796",
+      "contactName": null,
+      "email": "buraqoilgunungsemanggol2019@gmail.com",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 18
+    },
+    {
+      "tenantId": 2,
+      "name": "IPOH FARM FRESH",
+      "registrationNumber": "SUP0000029",
+      "creationTime": "2020-09-28T08:28:24.2237009",
+      "address1": "NO.36 , JALAN MERU PERDANA 2 , TAMAN MERU PERDANA , 31200",
+      "address2": "CHEMOR PERAK",
+      "city": "CHEMOR",
+      "province": "PERAK",
+      "postcode": "31200",
+      "country": "MALAYSIA",
+      "phoneNumber": "0192063030",
+      "faxNumber": null,
+      "contactName": null,
+      "email": "admin@farmfreshipoh.com",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 29
+    },
+    {
+      "tenantId": 2,
+      "name": "IPTB SDN BHD",
+      "registrationNumber": "SUP0000001",
+      "creationTime": "0001-01-01T00:00:00",
+      "address1": null,
+      "address2": null,
+      "city": null,
+      "province": null,
+      "postcode": null,
+      "country": null,
+      "phoneNumber": null,
+      "faxNumber": "0321681284",
+      "contactName": null,
+      "email": "petronmalaysia@petron.com",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 1
+    },
+    {
+      "tenantId": 2,
+      "name": "KEDA AGROBIZ SDN BHD",
+      "registrationNumber": "SUP0000020",
+      "creationTime": "2020-02-07T06:05:23.3120769",
+      "address1": "LOT.2345,KAMPUNG CHARUK TUALANG JALAN GURUN-SIK,BATU LIMA ",
+      "address2": "08200 SIK,KEDAH ",
+      "city": "KEDAH",
+      "province": "GURUN",
+      "postcode": "08200",
+      "country": "MALAYSIA",
+      "phoneNumber": null,
+      "faxNumber": "04-4626320",
+      "contactName": null,
+      "email": "KEDA.AGROBIZ@MAIL.COM",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 20
+    },
+    {
+      "tenantId": 2,
+      "name": "KONG HONG SDN BHD ",
+      "registrationNumber": "SUP0000004",
+      "creationTime": "0001-01-01T00:00:00",
+      "address1": "LOT 3713 , JALAN PERUSAHAAN 3 , KAWASAN PERUSAHAAN RINGAN TUPAI , 34000 TAIPING , PERAK ",
+      "address2": null,
+      "city": "PERAK",
+      "province": "TAIPING",
+      "postcode": "34000",
+      "country": "Malaysia",
+      "phoneNumber": "058074410",
+      "faxNumber": "058054410",
+      "contactName": null,
+      "email": "konhongsdnbhd@yahoo.com",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 4
+    },
+    {
+      "tenantId": 2,
+      "name": "KOTA PADANG JAYA ENTERPRISE",
+      "registrationNumber": "SUP0000032",
+      "creationTime": "2020-12-18T12:41:28.6486623",
+      "address1": "NO 10 LEBUH TAMIL 10100 GOERGETOWN PULAU PINANG",
+      "address2": null,
+      "city": "PULAU PINANG",
+      "province": null,
+      "postcode": "10100",
+      "country": "MALAYSIA",
+      "phoneNumber": "017-5916083",
+      "faxNumber": null,
+      "contactName": null,
+      "email": "buraqoilsemanggol@gmail.com",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 32
+    },
+    {
+      "tenantId": 2,
+      "name": "LONGWAN RETAIL & WHOLESALE",
+      "registrationNumber": "SUP0000025",
+      "creationTime": "2020-05-03T15:43:54.2299912",
+      "address1": "KEPALA BATAS",
+      "address2": null,
+      "city": "PENANG",
+      "province": null,
+      "postcode": "13200",
+      "country": "MALAYSIA",
+      "phoneNumber": null,
+      "faxNumber": null,
+      "contactName": null,
+      "email": "buraqoilgunungsemanggol@gmail.com",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 25
+    },
+    {
+      "tenantId": 2,
+      "name": "MAGNO  DISTRIBUTOR",
+      "registrationNumber": "SUP0000009",
+      "creationTime": "2019-11-19T10:41:09.0992358",
+      "address1": "21,JALAN SERI AMAN 4,PUSAT PERNIAGAAN SRI AMAN,14200 SUNGAI JAWI",
+      "address2": null,
+      "city": "SUNGAI BAKAP",
+      "province": "PULAU PINANG",
+      "postcode": "14200",
+      "country": "MALAYSIA",
+      "phoneNumber": "0195994329",
+      "faxNumber": null,
+      "contactName": null,
+      "email": "MISSPOKE9@GMAIL.COM.MY",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 9
+    },
+    {
+      "tenantId": 2,
+      "name": "MEGA FLOWER MFG GLOBAL",
+      "registrationNumber": "SUP0000041",
+      "creationTime": "2021-08-18T06:32:10.7969004",
+      "address1": "B18-22 , JALAN BESAR , 2700 BENTA , PAHANG.",
+      "address2": null,
+      "city": "BENTA",
+      "province": "Perak",
+      "postcode": "27300",
+      "country": "MALAYSIA",
+      "phoneNumber": "0129380467",
+      "faxNumber": null,
+      "contactName": "JASSIE ANG",
+      "email": "crilight@outlook.com",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 41
+    },
+    {
+      "tenantId": 2,
+      "name": "MR DIY SDN BHD",
+      "registrationNumber": "SUP0000028",
+      "creationTime": "2020-08-31T11:24:28.0826224",
+      "address1": "TAIPING SENTRAL MALL",
+      "address2": null,
+      "city": "PERAK",
+      "province": null,
+      "postcode": "34600",
+      "country": "MALAYSIA",
+      "phoneNumber": null,
+      "faxNumber": null,
+      "contactName": null,
+      "email": "aqilahzulkipli2007@gmail.com",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 28
+    },
+    {
+      "tenantId": 2,
+      "name": "NEW FOO HING TOBACCO SDN.BHD",
+      "registrationNumber": "SUP0000015",
+      "creationTime": "0001-01-01T00:00:00",
+      "address1": "NO 17,SUSUR MAJU ,TMN PENGKALAN MAJU",
+      "address2": null,
+      "city": "SEMANGGOL TAIPING",
+      "province": "Perak",
+      "postcode": "34400",
+      "country": "MALAYSIA",
+      "phoneNumber": null,
+      "faxNumber": "058497178",
+      "contactName": "MOHD SUFRI",
+      "email": "MISSPOKE9@GMAIL.COM",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 15
+    },
+    {
+      "tenantId": 2,
+      "name": "NN SUPPLY & TRADING",
+      "registrationNumber": "SUP0000026",
+      "creationTime": "2020-05-22T02:45:14.3972046",
+      "address1": "TMN KERAMAT PERMAI",
+      "address2": null,
+      "city": "KUALA LUMPUR",
+      "province": null,
+      "postcode": "54200",
+      "country": "MALAYSIA",
+      "phoneNumber": null,
+      "faxNumber": null,
+      "contactName": null,
+      "email": "buraqoilgunungsemanggol2019@gmail.com",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 26
+    },
+    {
+      "tenantId": 2,
+      "name": "RAIHAN FRESH MART",
+      "registrationNumber": "SUP0000031",
+      "creationTime": "2020-11-26T06:20:58.6687946",
+      "address1": "NO 1 TAMAN DATO SRI RAZAK JALAN KAMUNTING LAMA 34000 TAIPING PERAK",
+      "address2": "0186669869",
+      "city": "PERAK",
+      "province": "KAMUNTING",
+      "postcode": "34000",
+      "country": "MALAYSIA",
+      "phoneNumber": "01116408497",
+      "faxNumber": null,
+      "contactName": null,
+      "email": "buraqoilsemanggol@gmail.com",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 31
+    },
+    {
+      "tenantId": 2,
+      "name": "SGH EDARAN (M) SDN . BHD ",
+      "registrationNumber": "SUP0000008",
+      "creationTime": "2019-11-18T11:12:09.330284",
+      "address1": "PT . N0. 758 JALAN PERUSAHAAN SATU , KAWASAN PERUSAHAAN PARIT BUNTAR  , 34200 PARIT BUNTAR PERAK .",
+      "address2": null,
+      "city": "PARIT BUNTAR",
+      "province": "PARIT BUNTAR ",
+      "postcode": "34200 ",
+      "country": "MALAYSIA",
+      "phoneNumber": "6057160711/7175198",
+      "faxNumber": "6057167712",
+      "contactName": null,
+      "email": "MISSPOKE9@GMAIL.COM",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 8
+    },
+    {
+      "tenantId": 2,
+      "name": "SHEN GOLDEN TRADING",
+      "registrationNumber": "SUP0000005",
+      "creationTime": "2019-11-15T12:04:02.5836487",
+      "address1": "NO,631,POKOK ASSAM,34000 TAIPING,PERAK",
+      "address2": null,
+      "city": "PERAK",
+      "province": "TAIPING",
+      "postcode": "34000",
+      "country": "Malaysia",
+      "phoneNumber": "0165312821",
+      "faxNumber": null,
+      "contactName": null,
+      "email": "MISSPOKE9@GMAIL.COM",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 5
+    },
+    {
+      "tenantId": 2,
+      "name": "shen golden trading",
+      "registrationNumber": "SUP0000040",
+      "creationTime": "2021-08-03T06:23:53.9960445",
+      "address1": "no 631, pokok assam, 34000 taiping, perak",
+      "address2": "0186669869",
+      "city": "KAMUNTING",
+      "province": "PERAK",
+      "postcode": "34600",
+      "country": "Malaysia",
+      "phoneNumber": "0165312821",
+      "faxNumber": null,
+      "contactName": "GRAND FROZEN ENTERPRISE",
+      "email": "buraqoilsemanggol@gmail.com",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 40
+    },
+    {
+      "tenantId": 2,
+      "name": "SLBI ENTERPRISE",
+      "registrationNumber": "SUP0000013",
+      "creationTime": "2019-12-10T09:40:49.7590688",
+      "address1": "NO 9169-B,KEDAI LINTASAN RELAU,JALAN MENTARI,34100 SELAMA PERAK",
+      "address2": null,
+      "city": "PERAK",
+      "province": "SELAMA",
+      "postcode": "34100",
+      "country": "MALAYSIA",
+      "phoneNumber": "0195475995",
+      "faxNumber": null,
+      "contactName": "SLBI ENTERPRISE",
+      "email": "ask_one_popcorn@yahoo.com.my",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 13
+    },
+    {
+      "tenantId": 2,
+      "name": "SWEE BENG SDN BHD",
+      "registrationNumber": "SUP0000038",
+      "creationTime": "2021-07-26T11:05:30.5461477",
+      "address1": "AG 3 & AG 3A TINGKAT BAWAH, RUMAH KEDAI, JALAN BUKIT MERAH 34400 GUNUG SEMANGGOL",
+      "address2": "0175758788",
+      "city": "KAMUNTING",
+      "province": "PERAK",
+      "postcode": "34600",
+      "country": "Malaysia",
+      "phoneNumber": "0175758788",
+      "faxNumber": null,
+      "contactName": "ATAT",
+      "email": "buraqoilsemanggol@gmail.com",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 38
+    },
+    {
+      "tenantId": 2,
+      "name": "THIRTY ELEMENT RESOURCES",
+      "registrationNumber": "SUP0000042",
+      "creationTime": "2021-10-02T02:59:26.4840369",
+      "address1": "NO 36, JALAN MERU PERDANA 23",
+      "address2": null,
+      "city": "PERAK",
+      "province": null,
+      "postcode": "34600",
+      "country": "Malaysia",
+      "phoneNumber": null,
+      "faxNumber": null,
+      "contactName": "0",
+      "email": "aqilahzulkipli2007@gmail.com",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 42
+    },
+    {
+      "tenantId": 2,
+      "name": "UNI NORTHERN TRADING",
+      "registrationNumber": "SUP0000037",
+      "creationTime": "2021-05-24T06:15:53.5857455",
+      "address1": "26 LENGKOK BEDOK TAMAN SRI AMAN",
+      "address2": null,
+      "city": "SUNGAI BAKAP",
+      "province": "PULAU PINANG",
+      "postcode": "14200",
+      "country": "MALAYSIA",
+      "phoneNumber": "012-5799997",
+      "faxNumber": null,
+      "contactName": "JOE",
+      "email": "buraqoilsemanggol@gmail.com",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 37
+    },
+    {
+      "tenantId": 2,
+      "name": "WANJIMUD SDN BHD",
+      "registrationNumber": "SUP0000030",
+      "creationTime": "2020-10-03T12:31:10.9008408",
+      "address1": "BATU 19 KAMPUNG BUKIT JALAN NAKA",
+      "address2": "0362861000",
+      "city": "KEDAH",
+      "province": null,
+      "postcode": "06400",
+      "country": "MALAYSIA",
+      "phoneNumber": null,
+      "faxNumber": null,
+      "contactName": null,
+      "email": "aqilahzulkipli2007@gmail.com",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 30
+    },
+    {
+      "tenantId": 2,
+      "name": "YEE LEE TRADING CO. SDN. BHD",
+      "registrationNumber": "SUP0000012",
+      "creationTime": "2019-12-08T02:53:18.8339888",
+      "address1": "LOT 85, JALAN PORTLAND, TASEK INDUSTRIAL ESTATE",
+      "address2": null,
+      "city": "IPOH",
+      "province": null,
+      "postcode": "31400",
+      "country": "MALAYSIA",
+      "phoneNumber": "03-62861000",
+      "faxNumber": null,
+      "contactName": null,
+      "email": "buraqoilsemanggol@gmail.com",
+      "inactive": false,
+      "productSuppliers": null,
+      "addStore": null,
+      "id": 12
+    }
+  ],
+  "products": []
+}

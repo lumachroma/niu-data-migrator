@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
+import Link from 'next/link'
 
 export default function Home() {
   return (
@@ -21,8 +22,8 @@ export default function Home() {
 
           <figure className="text-center">
             <p className="lead">
-                Get started by editing{' '}
-                <code className="p-2 bg-light">pages/index.js</code>
+              Get started by editing{' '}
+              <code className="p-2 bg-light">pages/index.js</code>
             </p>
           </figure>
 
@@ -71,6 +72,36 @@ export default function Home() {
                   <i className="bi bi-chevron-double-right"></i>
                 </a>
                 <p>Instantly deploy your Next.js site to a public URL with Vercel.</p>
+              </div>
+            </div>
+
+            <div className="col-md-6">
+              <div className="card">
+                <div className="card-body">
+                  <h5 className="card-title">
+                    NIU v.1 (NiuPOS)
+                    {' '}
+                    <Link href={`/niupos`}>
+                      <a className="stretched-link"><i className="bi bi-chevron-double-right" /></a>
+                    </Link>
+                  </h5>
+                  <h6 className="card-subtitle mb-2 text-muted">BuraqOil System</h6>
+                </div>
+              </div>
+            </div>
+
+            <div className="col-md-6">
+              <div className="card">
+                <div className="card-body">
+                  <h5 className="card-title">
+                    NIU v.2 (BaruPOS)
+                    {' '}
+                    <Link href={`/barupos`}>
+                      <a className="stretched-link"><i className="bi bi-chevron-double-right" /></a>
+                    </Link>
+                  </h5>
+                  <h6 className="card-subtitle mb-2 text-muted">BaruPOS System</h6>
+                </div>
               </div>
             </div>
 

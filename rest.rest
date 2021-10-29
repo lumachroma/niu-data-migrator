@@ -1,0 +1,11 @@
+###
+
+GET http://localhost:8700/v1/secure/categories-v2/ HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEzZWNmYzM2ZGY2N2QzZWI0NDE0ODIyOTNlYWFmNzA5IiwidXNlcm5hbWUiOiJhZG1pbiIsIm5hbWUiOiJBZG1pbmlzdHJhdG9yIiwicm9sZXMiOlsiU1VQRVIiLCJBRE1JTiIsIkNJUy1GVUxMIiwiQ0lTLUFETUlOIl0sImlhdCI6MTYyODczOTg4NiwiZXhwIjoxNjU5ODQzODg2LCJpc3MiOiJiYXJ1cG9zIn0.PhMbV2K3ti_MU1gtqbVNTV719Jj8HEXFPpxiZ_DtdRa0vijhEZJolpP8V3HN6TCXZQ1ngtHZiPyiwXiLRu1rtHOD5IEnsSjswSz54OZCtpqbZ1QVEnx9uI6rFCmpzs5cEn4GzdS9l-nQ-pxLOkJYL801F0IwH9lYVkRi_9RfH04 
+
+###
+GET http://localhost:3000/api/niupos/enrich-export-products HTTP/1.1
+
+###
+GET http://localhost:3000/api/niupos/enrich-export-suppliers HTTP/1.1
