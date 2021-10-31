@@ -57,5 +57,4 @@ const SuppliersPage = () => {
   )
 }
 
-
 export default SuppliersPage

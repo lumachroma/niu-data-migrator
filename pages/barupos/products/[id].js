@@ -39,7 +39,7 @@ const Product = ({ product }) => {
 
       <div className="card">
         <div className="card-body">
-          <textarea className="form-control" rows="25" defaultValue={JSON.stringify(product, null, 4)} style={{ width: "100%" }} />
+          <textarea className="form-control" rows="10" defaultValue={JSON.stringify(product, null, 4)} style={{ width: "100%" }} />
         </div>
       </div>
 
