@@ -64,6 +64,13 @@ export default function NiuPos() {
           </div>
         </div>
       </main>
+
+      <style jsx>{`
+        .container {
+          width: auto;
+          max-width: 800px;
+        }
+      `}</style>
     </>
   )
 }

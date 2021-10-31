@@ -18,6 +18,13 @@ const PageShell = ({ name, description, children }) => {
           </div>
         </div>
       </main>
+
+      <style jsx>{`
+        .container {
+          width: auto;
+          max-width: 800px;
+        }
+      `}</style>
     </>
   )
 }

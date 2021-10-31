@@ -64,6 +64,13 @@ export default function BaruPos() {
           </div>
         </div>
       </main>
+
+      <style jsx>{`
+        .container {
+          width: auto;
+          max-width: 800px;
+        }
+      `}</style>
     </>
   )
 }
