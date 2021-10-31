@@ -1,18 +1,10 @@
 import Link from 'next/link'
 import { useRouter } from 'next/router'
-import { useState } from 'react'
 import useSWR from 'swr'
 import PageShell from '../../components/PageShell'
-import enrichCategories from '../../utils/enricher'
 import fetcher from '../../utils/fetcher'
 
 const Categories = ({ entities, name, description, router }) => {
-  const [enrichedCategories, setEnrichedCategories] = useState([])
-
-  const handleEnrichAndExport = () => {
-    setEnrichedCategories(enrichCategories(entities))
-  }
-
   return (
     <>
       <div className="py-2">
@@ -30,9 +22,6 @@ const Categories = ({ entities, name, description, router }) => {
         <ul className="list-inline">
           <li className="list-inline-item"><Link href={`/niupos/categories`}><a className={"btn btn-success btn-sm" + (!router.query.isActive ? " disabled" : "")}>All</a></Link></li>
           <li className="list-inline-item"><Link href={`/niupos/categories?isActive=true`}><a className={"btn btn-success btn-sm" + (router.query.isActive ? " disabled" : "")}>Active Only</a></Link></li>
-        </ul>
-        <ul className="list-inline">
-          <li className="list-inline-item"><button className="btn btn-success" onClick={handleEnrichAndExport}>Enrich &amp; Export<i className="bi bi-stars" /></button></li>
         </ul>
       </div>
 
@@ -52,14 +41,6 @@ const Categories = ({ entities, name, description, router }) => {
           })
         }
       </ul>
-
-      {enrichedCategories && enrichedCategories.length > 0 &&
-        <>
-          <br />
-          <br />
-          <textarea className="form-control" rows="25" defaultValue={JSON.stringify(enrichedCategories, null, 4)} style={{ width: "100%" }} />
-        </>
-      }
     </>
   )
 }
