@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Link from 'next/link'
 
-export default function NiuPos() {
+export default function BaruPos() {
   return (
     <>
       <Head>
@@ -28,7 +28,7 @@ export default function NiuPos() {
                   <h5 className="card-title">
                     Products
                     {' '}
-                    <Link href={`/niupos/products`}>
+                    <Link href={`/barupos/products`}>
                       <a className="stretched-link"><i className="bi bi-chevron-double-right" /></a>
                     </Link>
                   </h5>
@@ -41,7 +41,20 @@ export default function NiuPos() {
                   <h5 className="card-title">
                     Suppliers
                     {' '}
-                    <Link href={`/niupos/suppliers`}>
+                    <Link href={`/barupos/suppliers`}>
+                      <a className="stretched-link"><i className="bi bi-chevron-double-right" /></a>
+                    </Link>
+                  </h5>
+                </div>
+              </div>
+            </div>
+            <div className="col">
+              <div className="card">
+                <div className="card-body">
+                  <h5 className="card-title">
+                    Categories
+                    {' '}
+                    <Link href={`/barupos/categories`}>
                       <a className="stretched-link"><i className="bi bi-chevron-double-right" /></a>
                     </Link>
                   </h5>
