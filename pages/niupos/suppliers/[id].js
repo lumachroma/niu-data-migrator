@@ -9,6 +9,7 @@ const Supplier = ({ supplier }) => {
   const [enrichedSupplier, setEnrichedSupplier] = useState(undefined)
 
   const handleEnrich = async () => {
+    setEnrichedSupplier(undefined)
     let fetched = await fetcher(`/api/niupos/suppliers/${supplier.id}/enrich`)
     console.log("fetched", fetched)
     setEnrichedSupplier(fetched.result)
@@ -53,79 +54,17 @@ const Supplier = ({ supplier }) => {
       <hr />
 
       {enrichedSupplier &&
-        <dl className="row">
-          {
-            Object.keys(enrichedSupplier).map((key) => {
-              return (
-                <React.Fragment key={key}>
-                  <dt className="col-3">{key}</dt>
-                  {
-                    (typeof (enrichedSupplier[key]) !== "object") &&
-                    <dd className="col-9">
-                      {(enrichedSupplier[key] !== null) ? (enrichedSupplier[key]).toString() : ''}
-                    </dd>
-                  }
-                  {
-                    (typeof (enrichedSupplier[key]) === "object" && Array.isArray(enrichedSupplier[key])) &&
-                    <dd className="col-9">
-                      {enrichedSupplier[key].length > 0 && typeof (enrichedSupplier[key][0]) !== "object" &&
-                        <>
-                          {(enrichedSupplier[key] !== null) ? (enrichedSupplier[key]).toString() : ''}
-                        </>
-                      }
-                      {enrichedSupplier[key].length > 0 && typeof (enrichedSupplier[key][0]) === "object" &&
-                        <dl className="row">
-                          {
-                            Object.keys(enrichedSupplier[key]).map((i) => {
-                              return (
-                                <React.Fragment key={`${i}`}>
-                                  {Object.keys(enrichedSupplier[key][i]).map((j, k) => {
-                                    return (
-                                      <React.Fragment key={`${i}-${k}-${j}`}>
-                                        <dt className="col-3">{`${i}-${k}-${j}`}</dt>
-                                        <dd className="col-9">
-                                          {(enrichedSupplier[key][i][j] !== null) ? (enrichedSupplier[key][i][j]).toString() : ''}
-                                        </dd>
-                                      </React.Fragment>
-                                    )
-                                  })}
-                                </React.Fragment>
-                              )
-                            })}
-                        </dl>
-                      }
-                    </dd>
-                  }
-                  {
-                    (typeof (enrichedSupplier[key]) === "object" && !Array.isArray(enrichedSupplier[key])) &&
-                    <dd className="col-9">
-                      <dl className="row">
-                        {
-                          Object.keys(enrichedSupplier[key]).map((innerKey) => {
-                            return (
-                              <React.Fragment key={innerKey}>
-                                <dt className="col-3">{innerKey}</dt>
-                                <dd className="col-9">
-                                  {(enrichedSupplier[key][innerKey] !== null) ? (enrichedSupplier[key][innerKey]).toString() : ''}
-                                </dd>
-                              </React.Fragment>
-                            )
-                          })
-                        }
-                      </dl>
-                    </dd>
-                  }
-                </React.Fragment>
-              )
-            })
-          }
-        </dl>
+        <div className="card">
+          <div className="card-body">
+            <textarea className="form-control" rows="10" defaultValue={JSON.stringify(enrichedSupplier, null, 4)} style={{ width: "100%" }} />
+          </div>
+        </div>
       }
     </>
   )
 }
 
-const SuppliersPage = () => {
+const SupplierPage = () => {
   const router = useRouter()
   const { id } = router.query
   const { data, error } = useSWR(`/api/niupos/suppliers/${id}`, fetcher)
@@ -143,5 +82,4 @@ const SuppliersPage = () => {
   )
 }
 
-
-export default SuppliersPage
+export default SupplierPage

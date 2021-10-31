@@ -9,6 +9,7 @@ const Product = ({ product }) => {
   const [enrichedProduct, setEnrichedProduct] = useState(undefined)
 
   const handleEnrich = async () => {
+    setEnrichedProduct(undefined)
     let fetched = await fetcher(`/api/niupos/products/${product.id}/enrich`)
     console.log("fetched", fetched)
     setEnrichedProduct(fetched.result)
@@ -53,58 +54,17 @@ const Product = ({ product }) => {
       <hr />
 
       {enrichedProduct &&
-        <dl className="row">
-          {
-            Object.keys(enrichedProduct).map((key) => {
-              return (
-                <React.Fragment key={key}>
-                  <dt className="col-3">{key}</dt>
-                  {
-                    (typeof (enrichedProduct[key]) !== "object") &&
-                    <dd className="col-9">
-                      {(enrichedProduct[key] !== null) ? (enrichedProduct[key]).toString() : ''}
-                    </dd>
-                  }
-                  {
-                    (typeof (enrichedProduct[key]) === "object" && Array.isArray(enrichedProduct[key])) &&
-                    <dd className="col-9">
-                      {enrichedProduct[key].length > 0 && typeof (enrichedProduct[key][0]) !== "object" &&
-                        <>
-                          {(enrichedProduct[key] !== null) ? (enrichedProduct[key]).toString() : ''}
-                        </>
-                      }
-                    </dd>
-                  }
-                  {
-                    (typeof (enrichedProduct[key]) === "object" && !Array.isArray(enrichedProduct[key])) &&
-                    <dd className="col-9">
-                      <dl className="row">
-                        {
-                          Object.keys(enrichedProduct[key]).map((innerKey) => {
-                            return (
-                              <React.Fragment key={innerKey}>
-                                <dt className="col-3">{innerKey}</dt>
-                                <dd className="col-9">
-                                  {(enrichedProduct[key][innerKey] !== null) ? (enrichedProduct[key][innerKey]).toString() : ''}
-                                </dd>
-                              </React.Fragment>
-                            )
-                          })
-                        }
-                      </dl>
-                    </dd>
-                  }
-                </React.Fragment>
-              )
-            })
-          }
-        </dl>
+        <div className="card">
+          <div className="card-body">
+            <textarea className="form-control" rows="10" defaultValue={JSON.stringify(enrichedProduct, null, 4)} style={{ width: "100%" }} />
+          </div>
+        </div>
       }
     </>
   )
 }
 
-const ProductsPage = () => {
+const ProductPage = () => {
   const router = useRouter()
   const { id } = router.query
   const { data, error } = useSWR(`/api/niupos/products/${id}`, fetcher)
@@ -122,5 +82,4 @@ const ProductsPage = () => {
   )
 }
 
-
-export default ProductsPage
+export default ProductPage

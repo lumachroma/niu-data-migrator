@@ -9,6 +9,7 @@ const Category = ({ category }) => {
   const [enrichedCategory, setEnrichedCategory] = useState(undefined)
 
   const handleEnrich = async () => {
+    setEnrichedCategory(undefined)
     let fetched = await fetcher(`/api/niupos/categories/${category.id}/enrich`)
     console.log("fetched", fetched)
     setEnrichedCategory(fetched.result)
@@ -52,76 +53,12 @@ const Category = ({ category }) => {
       </div>
       <hr />
 
-      {
-        enrichedCategory &&
-        <dl className="row">
-          {
-            Object.keys(enrichedCategory).map((key) => {
-              return (
-                <React.Fragment key={key}>
-                  <dt className="col-3">{key}</dt>
-                  {
-                    (typeof (enrichedCategory[key]) !== "object") &&
-                    <dd className="col-9">
-                      {(enrichedCategory[key] !== null) ? (enrichedCategory[key]).toString() : ''}
-                    </dd>
-                  }
-                  {
-                    (typeof (enrichedCategory[key]) === "object" && Array.isArray(enrichedCategory[key])) &&
-                    <dd className="col-9">
-                      {enrichedCategory[key].length > 0 && typeof (enrichedCategory[key][0]) !== "object" &&
-                        <>
-                          {(enrichedCategory[key] !== null) ? (enrichedCategory[key]).toString() : ''}
-                        </>
-                      }
-                      {enrichedCategory[key].length > 0 && typeof (enrichedCategory[key][0]) === "object" &&
-                        <dl className="row">
-                          {
-                            Object.keys(enrichedCategory[key]).map((i) => {
-                              return (
-                                <React.Fragment key={`${i}`}>
-                                  {Object.keys(enrichedCategory[key][i]).map((j, k) => {
-                                    return (
-                                      <React.Fragment key={`${i}-${k}-${j}`}>
-                                        <dt className="col-3">{`${i}-${k}-${j}`}</dt>
-                                        <dd className="col-9">
-                                          {(enrichedCategory[key][i][j] !== null) ? (enrichedCategory[key][i][j]).toString() : ''}
-                                        </dd>
-                                      </React.Fragment>
-                                    )
-                                  })}
-                                </React.Fragment>
-                              )
-                            })}
-                        </dl>
-                      }
-                    </dd>
-                  }
-                  {
-                    (typeof (enrichedCategory[key]) === "object" && !Array.isArray(enrichedCategory[key])) &&
-                    <dd className="col-9">
-                      <dl className="row">
-                        {
-                          Object.keys(enrichedCategory[key]).map((innerKey) => {
-                            return (
-                              <React.Fragment key={innerKey}>
-                                <dt className="col-3">{innerKey}</dt>
-                                <dd className="col-9">
-                                  {(enrichedCategory[key][innerKey] !== null) ? (enrichedCategory[key][innerKey]).toString() : ''}
-                                </dd>
-                              </React.Fragment>
-                            )
-                          })
-                        }
-                      </dl>
-                    </dd>
-                  }
-                </React.Fragment>
-              )
-            })
-          }
-
-        </dl>
+      {enrichedCategory &&
+        <div className="card">
+          <div className="card-body">
+            <textarea className="form-control" rows="10" defaultValue={JSON.stringify(enrichedCategory, null, 4)} style={{ width: "100%" }} />
+          </div>
+        </div>
       }
     </>
   )
