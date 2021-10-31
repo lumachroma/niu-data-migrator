@@ -25,7 +25,7 @@ handler.get(async (req, res) => {
 
   res.status(200).json({
     result: {
-      totalSuppliers: suppliers.length,
+      totalSuppliers: suppliers.items.length,
       message: "Start conversion of suppliers...",
     }, success
   })

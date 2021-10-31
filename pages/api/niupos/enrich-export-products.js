@@ -25,7 +25,7 @@ handler.get(async (req, res) => {
 
   res.status(200).json({
     result: {
-      totalProducts: products.length,
+      totalProducts: products.items.length,
       message: "Start conversion of products...",
     }, success
   })
@@ -101,7 +101,7 @@ async function startConversionOfProducts(products, position) {
   setTimeout(() => {
     position = position + 1
     startConversionOfProducts(products, position)
-  }, 5000);
+  }, 3000);
 }
 
 export default handler
